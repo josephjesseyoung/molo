@@ -1,0 +1,3038 @@
+zipcode,city,female,male
+Finland,Finland,2785818,2701490
+00100 Helsinki Keskusta - Etu-Töölö   ,Helsinki ,9404,8464
+00120 Punavuori   ,Helsinki ,3680,3346
+00130 Kaartinkaupunki   ,Helsinki ,804,732
+00140 Kaivopuisto - Ullanlinna   ,Helsinki ,4202,3615
+00150 Eira - Hernesaari   ,Helsinki ,5010,4289
+00160 Katajanokka   ,Helsinki ,2395,2075
+00170 Kruununhaka   ,Helsinki ,3981,3410
+00180 Kamppi - Ruoholahti   ,Helsinki ,6850,6307
+00190 Suomenlinna   ,Helsinki ,403,389
+00200 Lauttasaari   ,Helsinki ,8142,6779
+00210 Vattuniemi   ,Helsinki ,4146,3551
+00220 Jätkäsaari   ,Helsinki ,1563,1355
+00230 Ilmala   ,Helsinki ,0,0
+00240 Länsi-Pasila   ,Helsinki ,2804,2334
+00250 Taka-Töölö   ,Helsinki ,6097,4982
+00260 Keski-Töölö   ,Helsinki ,2959,2463
+00270 Pohjois-Meilahti   ,Helsinki ,4323,3321
+00280 Ruskeasuo   ,Helsinki ,1705,1295
+00290 Meilahden sairaala-alue   ,Helsinki ,98,63
+00300 Pikku Huopalahti   ,Helsinki ,3232,2625
+00310 Kivihaka   ,Helsinki ,490,406
+00320 Etelä-Haaga   ,Helsinki ,5442,4284
+00330 Munkkiniemi   ,Helsinki ,5016,3848
+00340 Kuusisaari-Lehtisaari   ,Helsinki ,841,813
+00350 Munkkivuori-Niemenmäki   ,Helsinki ,5102,4213
+00360 Pajamäki   ,Helsinki ,1003,872
+00370 Reimarla   ,Helsinki ,3509,3163
+00380 Pitäjänmäen teollisuusalue   ,Helsinki ,2234,2122
+00390 Konala   ,Helsinki ,3163,3051
+00400 Pohjois-Haaga   ,Helsinki ,5145,4305
+00410 Malminkartano   ,Helsinki ,4548,4145
+00420 Kannelmäki   ,Helsinki ,7437,6432
+00430 Maununneva   ,Helsinki ,2493,2391
+00440 Lassila   ,Helsinki ,2503,2010
+00500 Sörnäinen   ,Helsinki ,6308,6310
+00510 Etu-Vallila - Alppila   ,Helsinki ,4626,4352
+00520 Itä-Pasila   ,Helsinki ,3584,3389
+00530 Kallio   ,Helsinki ,9774,8889
+00540 Kalasatama   ,Helsinki ,1117,1015
+00550 Vallila   ,Helsinki ,4978,4390
+00560 Toukola-Vanhakaupunki   ,Helsinki ,7124,6063
+00570 Kulosaari   ,Helsinki ,2048,1776
+00580 Verkkosaari   ,Helsinki ,1412,1309
+00590 Kaitalahti   ,Helsinki ,191,189
+00600 Koskela-Helsinki   ,Helsinki ,2203,1917
+00610 Käpylä   ,Helsinki ,4592,3609
+00620 Metsälä-Etelä-Oulunkylä   ,Helsinki ,1731,1495
+00630 Maunula-Suursuo   ,Helsinki ,4419,3880
+00640 Oulunkylä-Patola   ,Helsinki ,4339,3710
+00650 Veräjämäki   ,Helsinki ,2266,2079
+00660 Länsi-Pakila   ,Helsinki ,3378,3318
+00670 Paloheinä   ,Helsinki ,3073,2942
+00680 Itä-Pakila   ,Helsinki ,1816,1824
+00690 Tuomarinkylä-Torpparinmäki   ,Helsinki ,1430,1348
+00700 Malmi   ,Helsinki ,7004,6172
+00710 Pihlajamäki   ,Helsinki ,6594,5886
+00720 Pukinmäki-Savela   ,Helsinki ,4643,3911
+00730 Tapanila   ,Helsinki ,5894,5411
+00740 Siltamäki   ,Helsinki ,5268,4933
+00750 Puistola   ,Helsinki ,4769,4439
+00760 Suurmetsä   ,Helsinki ,3943,3775
+00770 Jakomäki - Alppikylä   ,Helsinki ,3454,3184
+00780 Tapaninvainio   ,Helsinki ,3626,3406
+00790 Viikki   ,Helsinki ,5771,5068
+00800 Länsi-Herttoniemi   ,Helsinki ,3872,3340
+00810 Herttoniemi   ,Helsinki ,6083,5386
+00820 Roihuvuori   ,Helsinki ,3894,3354
+00830 Tammisalo   ,Helsinki ,1179,1076
+00840 Laajasalo   ,Helsinki ,4525,3765
+00850 Jollas   ,Helsinki ,1576,1543
+00860 Santahamina   ,Helsinki ,203,222
+00870 Etelä-Laajasalo   ,Helsinki ,2583,2271
+00880 Roihupellon teollisuusalue   ,Helsinki ,385,338
+00890 Itäsalmi   ,Helsinki ,1037,1019
+00900 Puotinharju   ,Helsinki ,2171,1964
+00910 Puotila   ,Helsinki ,3353,2878
+00920 Myllypuro   ,Helsinki ,6315,5834
+00930 Itäkeskus-Marjaniemi   ,Helsinki ,3615,3179
+00940 Kontula - Vesala   ,Helsinki ,13550,12267
+00950 Vartioharju   ,Helsinki ,2871,2758
+00960 Pohjois-Vuosaari   ,Helsinki ,3826,3408
+00970 Mellunmäki   ,Helsinki ,5607,5026
+00980 Etelä-Vuosaari   ,Helsinki ,12185,10416
+00990 Aurinkolahti   ,Helsinki ,4299,3707
+01120 Västerskog   ,Sipoo ,652,709
+01150 Söderkulla   ,Sipoo ,2542,2524
+01180 Kalkkiranta   ,Porvoo ,217,245
+01190 Box   ,Sipoo ,529,494
+01200 Hakunila   ,Vantaa ,6184,5845
+01230 Vaarala   ,Vantaa ,1451,1513
+01260 Itä-Hakkila   ,Vantaa ,2342,2449
+01280 Länsimäki   ,Vantaa ,4848,4624
+01300 Tikkurila   ,Vantaa ,9636,8814
+01340 Leinelä   ,Vantaa ,321,291
+01350 Hiekkaharju   ,Vantaa ,5162,4742
+01360 Koivukylä-Havukoski   ,Vantaa ,6224,5917
+01370 Jokiniemi   ,Vantaa ,3366,3102
+01380 Kuusikko-Hakkila   ,Vantaa ,968,956
+01390 Ruskeasanta-Ilola   ,Vantaa ,4498,4459
+01400 Rekola   ,Vantaa ,4228,4038
+01420 Päiväkumpu   ,Vantaa ,1556,1656
+01450 Korso   ,Vantaa ,9218,9139
+01480 Mikkola   ,Vantaa ,3147,3109
+01490 Nikinmäki   ,Sipoo ,2017,2000
+01510 Kirkonkylä-Veromäki   ,Vantaa ,3092,3021
+01520 Tammisto   ,Vantaa ,4049,3752
+01530 Veromiehenkylä   ,Vantaa ,228,296
+01600 Myyrmäki   ,Vantaa ,8498,7520
+01610 Kaivoksela   ,Vantaa ,2338,2365
+01620 Martinlaakso   ,Vantaa ,6018,5751
+01630 Hämeenkylä   ,Vantaa ,1069,1040
+01640 Hämevaara   ,Vantaa ,1660,1652
+01650 Vapaala   ,Vantaa ,1991,2014
+01660 Varisto   ,Vantaa ,1201,1117
+01670 Vantaanlaakso   ,Vantaa ,1379,1329
+01680 Askisto   ,Vantaa ,1011,1032
+01690 Ylästö   ,Vantaa ,2320,2305
+01700 Kivistö   ,Vantaa ,2334,2267
+01710 Pähkinärinne   ,Vantaa ,2628,2442
+01720 Petikko   ,Vantaa ,29,38
+01730 Vantaanpuisto   ,Vantaa ,1157,1295
+01740 Tuupakan teollisuusalue   ,Vantaa ,91,108
+01750 Keimola   ,Vantaa ,411,432
+01760 Seutula   ,Vantaa ,1051,1066
+01770 Martinlaakson teollisuusalue   ,Vantaa ,0,0
+01800 Klaukkala Keskus   ,Nurmij?rvi ,4043,3782
+01810 Luhtajoki   ,Nurmij?rvi ,343,380
+01820 Haikala   ,Nurmij?rvi ,1770,1679
+01830 Lepsämä   ,Nurmij?rvi ,1208,1266
+01840 Klaukkala   ,Nurmij?rvi ,2156,2077
+01860 Perttula   ,Nurmij?rvi ,1004,1143
+01900 Nurmijärvi Keskus   ,Nurmij?rvi ,4575,4416
+01940 Palojoki   ,Nurmij?rvi ,380,393
+02100 Tapiola   ,Espoo ,2346,1986
+02110 Otsolahti   ,Espoo ,1430,1300
+02120 Länsikorkee-Suvikumpu   ,Espoo ,1469,1345
+02130 Pohjois-Tapiola   ,Espoo ,3018,2965
+02140 Laajalahti   ,Espoo ,1836,1853
+02150 Otaniemi   ,Espoo ,1157,2738
+02160 Westend   ,Espoo ,1617,1577
+02170 Haukilahti   ,Espoo ,2981,2698
+02180 Mankkaa   ,Espoo ,3495,3291
+02200 Niittykumpu   ,Espoo ,5452,5276
+02210 Olari   ,Espoo ,5784,5402
+02230 Matinkylä   ,Espoo ,10632,9765
+02240 Friisilä   ,Espoo ,1052,1032
+02260 Kaitaa   ,Espoo ,1934,1775
+02270 Finnoo-Eestinmalmi   ,Espoo ,1133,1146
+02280 Malminmäki-Eestinlaakso   ,Espoo ,2233,2202
+02290 Puolarmetsän sairaala   ,Espoo ,0,0
+02300 Nöykkiönpuro   ,Espoo ,1268,1258
+02320 Espoonlahti   ,Espoo ,8665,7657
+02330 Saunalahti-Kattilalaakso   ,Espoo ,4374,4363
+02340 Latokaski   ,Espoo ,2551,2490
+02360 Soukka   ,Espoo ,4953,4629
+02380 Suvisaaristo   ,Espoo ,318,324
+02400 Kirkkonummi Keskus   ,Kirkkonummi ,6376,5971
+02410 Gesterby   ,Kirkkonummi ,1040,1076
+02420 Jorvas   ,Kirkkonummi ,932,924
+02430 Masala   ,Kirkkonummi ,2161,2158
+02440 Luoma   ,Kirkkonummi ,323,297
+02450 Sundsberg   ,Kirkkonummi ,1048,979
+02460 Kantvik   ,Kirkkonummi ,847,909
+02470 Upinniemi   ,Kirkkonummi ,148,193
+02480 Porkkala   ,Kirkkonummi ,2188,2261
+02490 Pikkala   ,Siuntio ,142,173
+02510 Oitmäki   ,Kirkkonummi ,241,261
+02520 Lapinkylä   ,Kirkkonummi ,399,393
+02540 Kylmälä   ,Kirkkonummi ,339,329
+02550 Evitskog   ,Kirkkonummi ,409,462
+02570 Siuntio Kirkonkylä   ,Siuntio ,634,690
+02580 Siuntio Asemanseutu   ,Siuntio ,1744,1690
+02590 Lappers   ,Siuntio ,117,129
+02600 Etelä-Leppävaara   ,Espoo ,5423,5406
+02610 Kilo   ,Espoo ,2940,3171
+02620 Karakallio   ,Espoo ,4358,4007
+02630 Nihtisilta   ,Espoo ,1709,1641
+02650 Pohjois-Leppävaara   ,Espoo ,5184,5126
+02660 Lintuvaara   ,Espoo ,2993,3144
+02680 Uusmäki   ,Espoo ,1080,1019
+02700 Kauniainen   ,Kauniainen ,4826,4540
+02710 Viherlaakso   ,Espoo ,3225,2853
+02720 Lähderanta   ,Espoo ,1542,1466
+02730 Jupperi   ,Espoo ,2231,2253
+02740 Bemböle-Pakankylä   ,Espoo ,1635,1546
+02750 Sepänkylä-Kuurinniitty   ,Espoo ,3095,3045
+02760 Tuomarila-Suvela   ,Espoo ,7373,6987
+02770 Espoon Keskus   ,Espoo ,5261,5140
+02780 Kauklahti   ,Espoo ,4658,4651
+02810 Gumböle-Karhusuo   ,Espoo ,823,841
+02820 Nupuri-Nuuksio   ,Espoo ,679,709
+02860 Siikajärvi   ,Espoo ,339,344
+02880 Veikkola   ,Kirkkonummi ,2935,2901
+02920 Niipperi   ,Espoo ,2627,2617
+02940 Lippajärvi-Järvenperä   ,Espoo ,5150,4990
+02970 Kalajärvi   ,Espoo ,1803,1882
+02980 Lakisto   ,Espoo ,184,188
+03100 Nummela   ,Vihti ,7737,7282
+03150 Huhmari   ,Vihti ,394,388
+03220 Tervalampi   ,Vihti ,297,303
+03250 Ojakkala   ,Vihti ,965,999
+03300 Otalampi   ,Vihti ,1180,1279
+03320 Selki   ,Vihti ,167,179
+03400 Vihti Kirkonkylä   ,Vihti ,3243,3276
+03430 Jokikunta   ,Vihti ,259,304
+03600 Karkkila Keskus   ,Karkkila ,3404,3180
+03620 Polari   ,Karkkila ,1034,1080
+03710 Uusitalo   ,Karkkila ,103,99
+03790 Vihtijärvi   ,Vihti ,248,273
+03810 Ikkala   ,Lohja ,303,315
+03850 Pusula   ,Lohja ,858,837
+03870 Hyönölä   ,Lohja ,95,99
+04130 Sipoo   ,Sipoo ,3674,3500
+04150 Martinkylä   ,Sipoo ,304,349
+04170 Paippinen   ,Sipoo ,617,643
+04200 Kerava Keskus   ,Kerava ,6159,5343
+04220 Ahjo-Kaskela   ,Kerava ,2496,2584
+04230 Pihkaniitty   ,Kerava ,3807,3690
+04240 Talma   ,Sipoo ,585,619
+04250 Alikerava   ,Kerava ,2394,2387
+04260 Savio   ,Kerava ,3124,3142
+04300 Hyrylä   ,Tuusula ,5256,5021
+04310 Tuusula Keskus   ,Tuusula ,1404,1253
+04320 Riihikallio   ,Tuusula ,2372,2444
+04330 Lahela   ,Tuusula ,1151,1150
+04340 Mattila   ,Tuusula ,1123,1149
+04350 Nahkela   ,Tuusula ,236,280
+04360 Ruotsinkylä-Kiilinmäki   ,Tuusula ,592,661
+04370 Rusutjärvi   ,Tuusula ,383,417
+04380 Tuomala   ,Tuusula ,292,293
+04390 Jäniksenlinna   ,Tuusula ,229,248
+04400 Loutti   ,J?rvenp?? ,5156,4597
+04410 Järvenpää Keskus   ,J?rvenp?? ,5282,4779
+04420 Kyrölä   ,J?rvenp?? ,1948,1860
+04430 Kinnari-Mikonkorpi   ,J?rvenp?? ,4625,4377
+04440 Jamppa   ,J?rvenp?? ,2233,2362
+04460 Nummenkylä   ,Tuusula ,935,1019
+04480 Haarajoki   ,M?nts?l? ,1197,1240
+04500 Kellokoski   ,Tuusula ,2989,2956
+04530 Ohkola   ,M?nts?l? ,449,472
+04600 Mäntsälä Keskus   ,M?nts?l? ,4857,4415
+04620 Kaunismäki   ,M?nts?l? ,977,979
+04630 Sääksjärvi   ,M?nts?l? ,412,467
+04660 Numminen   ,M?nts?l? ,843,906
+04680 Hirvihaara   ,M?nts?l? ,323,334
+04740 Sälinkää   ,M?nts?l? ,593,610
+04770 Sahakylä   ,M?nts?l? ,96,118
+04820 Kaukalampi   ,M?nts?l? ,146,155
+04840 Hautjärvi   ,M?nts?l? ,135,129
+04920 Saarentaus   ,M?nts?l? ,166,178
+04940 Levanto   ,M?nts?l? ,154,146
+05100 Röykkä   ,Nurmij?rvi ,1138,1183
+05200 Rajamäki   ,Nurmij?rvi ,3330,3412
+05250 Kiljava   ,Nurmij?rvi ,105,87
+05400 Jokela   ,Tuusula ,3272,3208
+05430 Nuppulinna   ,Tuusula ,529,519
+05440 Hyvinkää   ,Hyvink?? ,197,198
+05450 Nukari   ,Nurmij?rvi ,540,561
+05460 Hakalanmäki-Hakala   ,Hyvink?? ,1706,1608
+05470 Palopuro   ,Hyvink?? ,154,169
+05510 Päivärinta   ,Hyvink?? ,229,229
+05620 Noppo   ,Hyvink?? ,658,684
+05720 Kytäjä   ,Hyvink?? ,270,289
+05800 Hyvinkää Keskus   ,Hyvink?? ,5173,4288
+05810 Martti   ,Hyvink?? ,2908,2831
+05820 Mustamännistö   ,Hyvink?? ,2548,2657
+05830 Kirjavatolppa-Kruununpuisto   ,Hyvink?? ,3700,3521
+05840 Hyvinkäänkylä-Vehkoja   ,Hyvink?? ,1918,1866
+"05850 Hyvinkää, sairaala-alue   ",Hyvink?? ,0,0
+05860 Talvisilta   ,Hyvink?? ,696,738
+05880 Paavola-Vaivero   ,Hyvink?? ,1763,1674
+05900 Vieremä   ,Hyvink?? ,2114,1838
+05950 Ridasjärvi   ,Hyvink?? ,179,212
+06100 Porvoo Keskus   ,Porvoo ,9873,8639
+06150 Kevätkumpu   ,Porvoo ,3009,2819
+06200 Porvoo itäinen   ,Porvoo ,1277,1353
+06400 Gammelbacka   ,Porvoo ,3592,3541
+06450 Eestinmäki-Ernestas   ,Porvoo ,1025,1000
+06500 Saksala-Suomenkylä   ,Porvoo ,1046,1116
+06530 Kerkkoo   ,Porvoo ,410,419
+06650 Hamari   ,Porvoo ,694,774
+06750 Tolkkinen   ,Porvoo ,893,911
+06830 Kulloonkylä   ,Porvoo ,540,565
+06850 Kulloo   ,Porvoo ,0,0
+06880 Kärrby   ,Sipoo ,164,186
+06950 Emäsalo   ,Porvoo ,201,182
+07110 Hinthaara   ,Porvoo ,755,796
+07130 Anttila   ,Porvoo ,329,340
+07150 Laukkoski   ,Pornainen ,496,498
+07170 Keski-Pornainen   ,Pornainen ,1272,1265
+07190 Halkia   ,Pornainen ,702,749
+07220 Kaarenkylä   ,Porvoo ,147,161
+07230 Monninkylä   ,Askola ,822,797
+07280 Ilola   ,Porvoo ,443,489
+07310 Sannainen   ,Porvoo ,208,212
+07320 Jakari-Sannäs   ,Porvoo ,212,230
+07350 Gäddrag   ,Porvoo ,40,47
+07360 Tirmo   ,Porvoo ,17,27
+07370 Pellinki   ,Porvoo ,66,69
+07390 Suurpellinki   ,Porvoo ,56,70
+07410 Kråkö   ,Porvoo ,165,153
+07450 Voolahti   ,Porvoo ,219,205
+07500 Askola Kirkonkylä   ,Askola ,607,563
+07510 Vakkola   ,Askola ,330,365
+07530 Onkimaa   ,Askola ,148,159
+07550 Torpinkylä   ,Pukkila ,153,152
+07560 Pukkila Keskus   ,Pukkila ,685,676
+07565 Kantele   ,Pukkila ,122,146
+07580 Tiilää   ,Askola ,31,39
+07590 Huuvari-Tiilää   ,Askola ,311,326
+07600 Myrskylä Keskus   ,Myrskyl? ,876,842
+07680 Juornaankylä   ,Askola ,267,287
+07690 Kankkila   ,Myrskyl? ,68,67
+07700 Koskenkylän saha-alue   ,Loviisa ,593,632
+07720 Malmgård   ,Loviisa ,43,37
+07740 Gammelby   ,Loviisa ,202,211
+07750 Isnäs   ,Loviisa ,267,281
+07780 Härkäpää   ,Loviisa ,81,94
+07800 Lapinjärvi Keskus   ,Lapinj?rvi ,485,418
+07810 Ingermaninkylä   ,Lapinj?rvi ,130,150
+07820 Porlammi   ,Lapinj?rvi ,253,252
+07830 Pukaro   ,Lapinj?rvi ,133,157
+07840 Lindkoski   ,Lapinj?rvi ,105,102
+07850 Heikinkylä   ,Lapinj?rvi ,144,167
+07870 Skinnarby   ,Loviisa ,216,245
+07880 Liljendal Keskus   ,Loviisa ,528,503
+07890 Mickelspiltom   ,Loviisa ,100,101
+07900 Loviisa Keskus   ,Loviisa ,2223,1896
+07910 Valko   ,Loviisa ,519,618
+07920 Etelä-Harju   ,Loviisa ,679,728
+07930 Pernaja Kirkonkylä   ,Loviisa ,322,335
+07940 Määrlahti   ,Loviisa ,493,496
+07945 Kuggom   ,Loviisa ,249,243
+07955 Tesjoki   ,Loviisa ,598,622
+07960 Ahvenkoski   ,Loviisa ,60,65
+07970 Ruotsinpyhtää Keskus   ,Loviisa ,277,288
+07980 Kuninkaankylä   ,Loviisa ,139,159
+07990 Ruotsinkylä-Koskisto   ,Loviisa ,152,158
+08100 Lohja Keskus   ,Lohja ,4445,3617
+08150 Keskilohja   ,Lohja ,2701,2590
+08200 Ojamo   ,Lohja ,2046,1811
+08350 Routio   ,Lohja ,1175,1194
+08360 Kisakallio   ,Lohja ,0,0
+08450 Hormajärvi   ,Lohja ,144,159
+08480 Karstu   ,Lohja ,135,137
+08500 Ventelä-Millola   ,Lohja ,3222,3327
+08680 Muijala   ,Lohja ,868,950
+08700 Virkkala   ,Lohja ,3713,3731
+08800 Kirkniemi   ,Lohja ,801,832
+09120 Karjalohja   ,Lohja ,629,605
+09220 Sammatti   ,Lohja ,844,838
+09430 Saukkola   ,Lohja ,829,865
+09520 Millola   ,Lohja ,52,65
+09630 Koisjärvi   ,Lohja ,233,266
+09810 Nummi-Oinola   ,Lohja ,492,493
+09930 Leppäkorpi   ,Lohja ,147,159
+10120 Tähtelä   ,Inkoo ,308,314
+10140 Päivölä   ,Inkoo ,154,151
+10160 Degerby   ,Inkoo ,437,467
+10210 Inkoo Keskus   ,Inkoo ,1457,1311
+10230 Inkoo Asemanseutu   ,Inkoo ,197,204
+10250 Fagervik   ,Inkoo ,63,69
+10270 Barösund   ,Inkoo ,58,83
+10300 Karjaa Keskus   ,Raasepori ,3814,3553
+10320 Bäljars   ,Raasepori ,632,675
+10330 Pinjainen   ,Raasepori ,315,315
+10350 Meltolan sairaala-alue   ,Raasepori ,70,45
+10360 Mustio   ,Raasepori ,646,707
+10380 Kaunislahti   ,Raasepori ,50,64
+10410 Åminnefors   ,Raasepori ,164,202
+10420 Pohjankuru   ,Raasepori ,904,930
+10440 Bollsta   ,Raasepori ,175,164
+10470 Fiskari   ,Raasepori ,278,272
+10480 Antskog   ,Raasepori ,52,56
+10520 Tenhola Kirkonkylä   ,Raasepori ,871,864
+10570 Bromarv   ,Raasepori ,252,244
+10600 Tammisaari Keskus   ,Raasepori ,2639,2310
+10620 Tammisaari   ,Raasepori ,929,979
+10640 Dragsvik   ,Raasepori ,481,476
+10650 Flyet   ,Raasepori ,1451,1287
+10660 Trollböle   ,Raasepori ,427,466
+10680 Skogby   ,Raasepori ,103,107
+10710 Snappertuna   ,Raasepori ,181,185
+10820 Lappohja   ,Hanko ,286,315
+10900 Hanko Keskus   ,Hanko ,2163,2059
+10940 Hangonkylä   ,Hanko ,1037,1048
+10960 Hanko Pohjoinen   ,Hanko ,932,940
+11100 Riihimäki Keskus   ,Riihim?ki ,3586,3063
+11120 Pohjois-Riihimäki   ,Riihim?ki ,3570,3536
+11130 Peltosaari-Patastenmäki   ,Riihim?ki ,4789,4758
+11310 Taka-Kasarmi   ,Riihim?ki ,400,393
+11710 Herajoki   ,Riihim?ki ,1547,1636
+11910 Lasi-Kumela   ,Janakkala ,1203,1260
+12100 Oitti   ,Hausj?rvi ,1363,1307
+12130 Mommila   ,Hausj?rvi ,164,178
+12170 Hietoinen   ,Hausj?rvi ,85,119
+12210 Hausjärvi kk   ,Hausj?rvi ,109,123
+12240 Hikiä   ,Hausj?rvi ,840,896
+12310 Ryttylä   ,Hausj?rvi ,927,946
+12350 Turkhauta   ,Hausj?rvi ,203,237
+12380 Leppäkoski   ,Janakkala ,242,294
+12400 Tervakoski   ,Janakkala ,2365,2346
+12450 Vähikkälä   ,Janakkala ,126,153
+12520 Kormu   ,Loppi ,230,248
+12540 Launonen   ,Loppi ,768,812
+12600 Läyliäinen   ,Loppi ,890,1007
+12630 Sajaniemi   ,Loppi ,137,149
+12640 Joentaka   ,Loppi ,150,171
+12700 Loppi kk   ,Loppi ,1217,1133
+12750 Pilpala   ,Loppi ,254,293
+12820 Räyskälä   ,Loppi ,26,29
+12920 Topeno   ,Loppi ,160,196
+12950 Vojakkala-Eerolankulma   ,Loppi ,84,98
+13100 Hämeenlinna Keskus   ,H?meenlinna ,5828,4829
+13110 Kantola   ,H?meenlinna ,77,125
+13130 Kauriala   ,H?meenlinna ,3389,2883
+13200 Keinusaari   ,H?meenlinna ,846,633
+13210 Hätilä   ,H?meenlinna ,4346,3931
+13220 Sairio   ,H?meenlinna ,902,895
+13250 Katuma   ,H?meenlinna ,480,562
+13270 Ruununmylly   ,H?meenlinna ,789,830
+13300 Käikälä   ,H?meenlinna ,1429,1424
+13330 Harviala   ,Janakkala ,372,398
+13430 Hattelmala   ,H?meenlinna ,575,607
+13500 Jukola   ,Hattula ,6186,5676
+13530 Hämeenlinna sairaala-alue   ,H?meenlinna ,0,0
+13600 Ojoinen   ,H?meenlinna ,1969,1873
+13700 Parolannummi   ,Hattula ,210,238
+13720 Parola   ,Hattula ,2282,2230
+13800 Katinala   ,Hattula ,699,666
+13880 Rahkoila   ,Hattula ,621,641
+13900 Pekola   ,Hattula ,438,461
+14140 Jokimaa   ,Janakkala ,107,108
+14200 Turenki   ,Janakkala ,4513,4373
+14240 Väli-Janakkala   ,Janakkala ,424,485
+14300 Renko kk   ,H?meenlinna ,1080,1086
+14330 Kaloinen   ,H?meenlinna ,0,0
+14370 Lukana   ,H?meenlinna ,45,50
+14430 Vuohiniemi   ,Hattula ,35,36
+14450 Rimmilä   ,H?meenlinna ,42,59
+14500 Iittala   ,H?meenlinna ,1695,1663
+14530 Leteensuo   ,Hattula ,96,136
+14610 Lepaa   ,Hattula ,220,229
+14620 Tyrväntö   ,Hattula ,78,86
+14680 Alvettula   ,H?meenlinna ,287,316
+14690 Torvoila   ,H?meenlinna ,85,98
+14700 Hauho kk   ,H?meenlinna ,999,961
+14770 Eteläinen   ,H?meenlinna ,463,487
+14810 Pohjoinen   ,H?meenlinna ,141,159
+14820 Syrjäntaka   ,H?meenlinna ,425,435
+14840 Sairiala   ,H?meenlinna ,108,102
+14870 Juttila   ,H?meenlinna ,117,122
+14930 Sappee   ,H?meenlinna ,55,55
+14960 Puutikkala   ,P?lk?ne ,39,45
+14980 Kuohijoki   ,P?lk?ne ,19,26
+15100 Lahti Asemanseutu   ,Lahti ,3485,2819
+15110 Keski-Lahti   ,Lahti ,2721,2162
+15140 Kartano-Paavola   ,Lahti ,8527,6548
+15150 Möysä   ,Lahti ,2316,1992
+15160 Kolava   ,Lahti ,1035,1028
+15170 Tenava-Tonttila   ,Lahti ,1975,1808
+15200 Kiveriö   ,Lahti ,1797,1741
+15210 Kivistönmäki   ,Lahti ,2155,1986
+15230 Kytölä   ,Lahti ,1362,1431
+15240 Mukkula   ,Lahti ,4280,3735
+15270 Kukkila   ,Hollola ,869,880
+15300 Myllypohja-Koiskala   ,Lahti ,2001,2027
+15320 Ahtiala   ,Lahti ,1447,1487
+15340 Kunnas-Hiekkanummi   ,Lahti ,1374,1458
+15460 Mäkelä   ,Lahti ,310,314
+15500 Liipola   ,Lahti ,2586,2219
+15520 Saksala   ,Lahti ,1201,1049
+15540 Villähde   ,Lahti ,2172,2289
+15550 Rakokivi   ,Lahti ,1862,1827
+15560 Nastola kk   ,Lahti ,2057,1990
+15580 Ruuhijärvi   ,Lahti ,106,125
+15610 Laune-Nikkilä   ,Lahti ,2648,2732
+15680 Renkomäki-Ämmälä   ,Lahti ,1547,1677
+15700 Hennala-Jokimaa   ,Hollola ,3442,3333
+15800 Kärpänen   ,Lahti ,1694,1761
+15810 Kasakkamäki   ,Lahti ,669,682
+15820 Okeroinen   ,Hollola ,529,581
+15830 Metsäkangas   ,Lahti ,2016,1830
+15840 Riihelä   ,Lahti ,996,945
+15850 Likolampi   ,Lahti ,318,343
+15860 Kartano   ,Hollola ,1798,1642
+15870 Salpakangas   ,Hollola ,2268,1848
+15880 Soramäki   ,Hollola ,2441,2400
+15900 Jalkaranta   ,Lahti ,880,782
+15950 Kiikkula   ,Lahti ,2210,1840
+15980 Messilä   ,Hollola ,0,0
+16100 Uusikylä   ,Lahti ,670,749
+16160 Okkeri   ,Lahti ,46,55
+16200 Artjärvi Keskus   ,Orimattila ,325,337
+16230 Artjärvi Kirkonkylä   ,Orimattila ,166,162
+16260 Hietana   ,Orimattila ,89,92
+16270 Villikkala   ,Orimattila ,67,81
+16280 Kuivanto   ,Orimattila ,287,317
+16300 Orimattila Keskus   ,Orimattila ,5502,5147
+16310 Virenoja   ,Orimattila ,302,341
+16320 Pennala   ,Orimattila ,509,569
+16330 Heinämaa   ,Orimattila ,162,175
+16350 Niinikoski   ,Orimattila ,163,170
+16390 Pakaa   ,Orimattila ,147,152
+16450 Mallusjoki   ,Orimattila ,212,261
+16500 Herrala   ,Hollola ,441,463
+16510 Luhtikylä   ,Orimattila ,216,233
+16540 Mertie   ,K?rk?l? ,127,152
+16600 Järvelä   ,K?rk?l? ,1488,1464
+16610 Kärkölä kk   ,K?rk?l? ,370,377
+16630 Tennilä   ,Hollola ,165,165
+16670 Lappila   ,K?rk?l? ,297,353
+16710 Hollola kk   ,Hollola ,508,477
+16730 Kutajärvi   ,Hollola ,508,522
+16790 Manskivi   ,Hollola ,52,54
+16800 Hämeenkoski   ,Hollola ,1036,1042
+16900 Lammi kk   ,H?meenlinna ,2442,2425
+16960 Iso-Evo   ,H?meenlinna ,89,77
+16970 Evo   ,H?meenlinna ,27,56
+16980 Ronni   ,H?meenlinna ,0,0
+17110 Sipilä   ,Hollola ,595,590
+17120 Paimela   ,Hollola ,269,298
+17130 Vesivehmaa   ,Asikkala ,394,416
+17150 Urajärvi   ,Asikkala ,169,199
+17200 Vääksy Keskus   ,Asikkala ,2780,2527
+17220 Pietilä   ,Asikkala ,69,96
+17240 Kalkkinen   ,Asikkala ,176,226
+17320 Asikkala   ,Asikkala ,167,169
+17410 Viitaila   ,Asikkala ,112,133
+17430 Kurhila   ,Asikkala ,125,148
+17440 Vähimaa   ,Asikkala ,28,34
+17450 Iso-Äiniö-Vähimaa   ,Asikkala ,92,108
+17470 Maakeski   ,Padasjoki ,138,146
+17500 Padasjoki Keskus   ,Padasjoki ,947,919
+17510 Nyystölä   ,Padasjoki ,133,125
+17530 Arrakoski   ,Padasjoki ,113,120
+17610 Auttoinen   ,Padasjoki ,137,145
+17630 Vesijako   ,Padasjoki ,52,62
+17710 Torittu   ,Padasjoki ,34,37
+17740 Kasiniemi-Torittu   ,Padasjoki ,24,24
+17780 Harmoinen   ,Kuhmoinen ,30,36
+17800 Kuhmoinen Keskus   ,Kuhmoinen ,963,861
+17840 Harjunsalmi   ,Kuhmoinen ,33,41
+17850 Pihlajakoski   ,Kuhmoinen ,36,44
+17870 Ruolahti   ,Kuhmoinen ,27,38
+17930 Päijälä   ,Kuhmoinen ,37,45
+17950 Kylämä   ,Kuhmoinen ,0,0
+17970 Puukkoinen   ,Kuhmoinen ,14,20
+18100 Heinola Keskus   ,Heinola ,3824,3183
+18120 Reumasairaala-alue   ,Heinola ,460,450
+18130 Tommola-Sahanniemi   ,Heinola ,991,935
+18150 Jyränkö   ,Heinola ,1224,1158
+18200 Kaakonlampi-Pyhätön   ,Heinola ,1079,1041
+18300 Heinola kk   ,Heinola ,1389,1408
+18600 Myllyoja   ,Heinola ,398,431
+19110 Vierumäki taajama   ,Heinola ,318,337
+19120 Vierumäki urheiluopisto   ,Heinola ,63,65
+19160 Huutotöyry   ,Iitti ,246,255
+19210 Lusi   ,Heinola ,217,248
+19230 Onkiniemi   ,Sysm? ,59,55
+19250 Syrjäkoski   ,Heinola ,24,25
+19260 Paaso-Syrjäkoski   ,Heinola ,49,66
+19310 Karilanmaa   ,Sysm? ,36,48
+19320 Nikkaroinen   ,Sysm? ,52,51
+19370 Nuoramoinen   ,Sysm? ,217,227
+19410 Kuortti   ,Pertunmaa ,226,234
+19420 Mansikkamäki   ,Pertunmaa ,68,87
+19430 Pertunmaa Keskus   ,Pertunmaa ,407,378
+19460 Ruorasmäki   ,Pertunmaa ,64,71
+19470 Lihavanpää-Hartosenpää   ,Pertunmaa ,78,86
+19480 Hartosenpää   ,Pertunmaa ,34,43
+19510 Lepsala   ,Hartola ,17,19
+19540 Koitti-Lepsala   ,Hartola ,130,164
+19600 Hartola Keskus   ,Hartola ,1121,1035
+19610 Murakka   ,Hartola ,43,55
+19620 Pohela   ,Hartola ,84,86
+19630 Kalhonkylä   ,Hartola ,43,36
+19650 Joutsa Keskus   ,Joutsa ,1706,1695
+19670 Mieskonmäki   ,Joutsa ,65,85
+19700 Sysmä Keskus   ,Sysm? ,1536,1429
+19730 Särkilampi   ,Sysm? ,0,0
+19740 Liikola   ,Sysm? ,52,73
+19770 Valittula   ,Sysm? ,67,63
+19850 Putkijärvi-Siltasuo   ,Hartola ,39,54
+19910 Tammijärvi   ,Luhanka ,213,231
+19920 Pappinen   ,Joutsa ,66,96
+19950 Luhanka   ,Luhanka ,142,165
+20100 Turku Keskus   ,Turku ,14284,11652
+20200 Iso-Heikkilä   ,Turku ,1118,1014
+20210 Pahaniemi   ,Turku ,2139,2079
+20240 Pansio-Perno   ,Turku ,2462,2650
+20250 Pitkämäki-Muhkuri   ,Turku ,366,365
+20300 Pohjola-Kastu   ,Turku ,3460,3166
+20320 Kuninkoja-Mälikkälä   ,Turku ,8803,7625
+20360 Kärsämäki-Urusvuori-Halinen   ,Turku ,5918,5179
+20380 Räntämäki-Saramäki   ,Turku ,1435,1465
+20400 Moisio   ,Turku ,1744,1687
+20460 Jäkärlä   ,Turku ,1730,1836
+20500 Vesilinna   ,Turku ,3387,2939
+20520 Kupittaa   ,Turku ,1719,1524
+20540 Nummi-Ylioppilaskylä   ,Turku ,10168,10218
+20610 Varissuo   ,Turku ,6822,6347
+20660 Littoinen   ,Kaarina ,3771,3651
+20700 Vartiovuori-Samppalinna   ,Turku ,3234,2519
+20720 Vasaramäki   ,Turku ,3422,2704
+20730 Skanssi   ,Turku ,41,42
+20740 Ilpoinen-Harittu   ,Turku ,5130,4401
+20750 Huhkola-Lauste-Vaala   ,Turku ,2593,2516
+20760 Piispanristi   ,Kaarina ,2199,2041
+20780 Kaarina Keskus   ,Kaarina ,6085,5580
+20800 Ammattikorkeakoulu   ,Turku ,0,0
+20810 Martti-Korppolaismäki   ,Turku ,8666,7491
+20880 Uittamo   ,Turku ,2201,1865
+20900 Moikoinen-Pikisaari   ,Turku ,4844,4505
+20960 Kakskerta   ,Turku ,713,721
+21100 Naantali Keskus   ,Naantali ,3681,3171
+21110 Taimo-Nuhjala-Lietsala   ,Naantali ,3842,3668
+21120 Viherjäinen   ,Raisio ,949,1000
+21130 Poikko   ,Naantali ,297,282
+21140 Rymättylä Keskus   ,Naantali ,643,674
+21150 Röölä   ,Naantali ,144,166
+21160 Merimasku   ,Naantali ,838,879
+21180 Livonsaari   ,Naantali ,103,115
+21195 Velkua   ,Naantali ,109,116
+21200 Raisio Keskus   ,Raisio ,6390,5624
+21210 Hakinmäki   ,Raisio ,1262,1325
+21220 Somersoja   ,Raisio ,661,704
+21230 Lemu   ,Masku ,910,961
+21240 Askainen Keskus   ,Masku ,426,449
+21250 Masku   ,Masku ,3305,3386
+21260 Ihala   ,Raisio ,1799,1848
+21270 Nousiainen   ,Nousiainen ,2396,2464
+21280 Kuloinen   ,Raisio ,1134,1113
+21290 Rusko   ,Rusko ,2115,2011
+21310 Vahto   ,Rusko ,902,922
+21330 Paattinen   ,Turku ,928,921
+21340 Tortinmäki   ,Turku ,258,273
+21350 Ilmarinen   ,Lieto ,947,994
+21360 Lieto Asemanseutu   ,Lieto ,849,939
+21370 Aura kk.   ,Aura ,283,302
+21380 Aura Keskus   ,Aura ,1789,1659
+21410 Vanhalinna   ,Lieto ,1139,1123
+21420 Lieto Keskus   ,Lieto ,3997,3756
+21430 Yliskulma   ,Lieto ,407,422
+21450 Tarvasjoki Keskus   ,Lieto ,939,916
+21480 Prunkila   ,Marttila ,180,188
+21490 Marttila   ,Marttila ,588,520
+21500 Piikkiö   ,Kaarina ,3589,3596
+21510 Hevonpää   ,Paimio ,227,248
+21520 Naskarla   ,Paimio ,0,0
+21530 Paimio Keskus   ,Paimio ,4309,4074
+21540 Preitilä   ,Paimio ,662,686
+21555 Taatila   ,Paimio ,146,171
+21560 Ollila   ,Marttila ,228,286
+21570 Sauvo Keskus   ,Sauvo ,1275,1266
+21590 Karuna   ,Sauvo ,211,238
+21600 Parainen Keskus   ,Parainen ,5490,5228
+21610 Kirjala   ,Parainen ,546,573
+21620 Kuusisto   ,Kaarina ,1073,1039
+21630 Lielahti   ,Parainen ,281,292
+21650 Lillandet   ,Parainen ,216,229
+21660 Nauvo Keskus   ,Parainen ,385,355
+21670 Mattnäs-Nötö   ,Parainen ,98,108
+21680 Nötö   ,Parainen ,0,0
+21710 Korppoo Keskus-Utö   ,Parainen ,330,319
+21720 Korpoström   ,Parainen ,0,0
+21740 Utö   ,Parainen ,18,23
+21750 Norrskata   ,Parainen ,47,55
+21760 Houtskär Keskus   ,Parainen ,183,220
+21770 Mossala   ,Parainen ,57,67
+21800 Kyrö   ,P?yty? ,1246,1259
+21820 Kumila   ,P?yty? ,172,185
+21840 Karinainen   ,P?yty? ,178,187
+21860 Auvainen   ,P?yty? ,196,224
+21870 Riihikoski   ,P?yty? ,965,984
+21880 Pöytyä   ,P?yty? ,189,213
+21890 Haveri   ,P?yty? ,124,146
+21900 Yläne Keskus   ,P?yty? ,762,762
+21930 Uusikartano   ,P?yty? ,248,291
+22100 Maarianhamina   ,Maarianhamina ,5955,5512
+22120 Möckelö   ,Jomala ,395,422
+22130 Gottby   ,Jomala ,433,417
+22140 Önningby   ,Jomala ,547,611
+22150 Jomala Centrum   ,Jomala ,865,903
+22160 Järsö   ,Lemland ,160,170
+22220 Emkarby   ,Finstr?m ,199,207
+22240 Hammarland   ,Hammarland ,733,768
+22270 Storby   ,Ecker? ,435,485
+22310 Pålsböle   ,Finstr?m ,243,264
+22320 Ödkarby   ,Saltvik ,402,421
+22330 Tjudö   ,Finstr?m ,153,147
+22340 Geta   ,Geta ,243,251
+22410 Godby   ,Finstr?m ,793,765
+22430 Saltvik   ,Saltvik ,359,338
+22520 Tosarby   ,Sund ,237,259
+22530 Sund   ,Sund ,267,259
+22550 Vårdö   ,V?rd? ,209,205
+22610 Lemland   ,Lemland ,740,752
+22630 Lumparland   ,Lumparland ,190,219
+22710 Ålands Degerby   ,F?gl? ,259,281
+22720 Sottunga   ,Sottunga ,43,51
+22730 Kökar   ,K?kar ,112,134
+22810 Seglinge   ,Kumlinge ,20,14
+22820 Kumlinge   ,Kumlinge ,86,105
+22830 Enklinge   ,Kumlinge ,35,40
+22840 Lappo   ,Br?nd? ,28,44
+22910 Torsholma   ,Br?nd? ,40,49
+22920 Brändö-Åland   ,Br?nd? ,77,80
+22930 Fiskö   ,Br?nd? ,18,15
+22940 Åva   ,Br?nd? ,32,52
+22950 Jurmo   ,Br?nd? ,20,23
+23100 Mynämäki Keskus   ,Myn?m?ki ,3128,3073
+23120 Mietoinen Keskus   ,Myn?m?ki ,440,456
+23140 Hietamäki   ,Myn?m?ki ,324,347
+23200 Vinkkilä   ,Vehmaa ,788,778
+23210 Vehmaa   ,Vehmaa ,271,288
+23260 Rautila   ,Vehmaa ,100,88
+23310 Taivassalo   ,Taivassalo ,794,829
+23360 Kustavi   ,Kustavi ,430,455
+23390 Iniö   ,Parainen ,110,112
+23450 Lokalahti   ,Uusikaupunki ,478,488
+23500 Uusikaupunki Keskus   ,Uusikaupunki ,5657,5584
+23600 Kalanti Keskus   ,Uusikaupunki ,1092,1146
+23660 Kalanti Asemanseutu   ,Uusikaupunki ,203,198
+23800 Laitila Keskus   ,Laitila ,4097,3994
+23840 Soukainen   ,Laitila ,90,83
+23880 Suontaka   ,Laitila ,46,56
+23930 Pyhämaa   ,Uusikaupunki ,251,280
+23950 Pyhäranta   ,Pyh?ranta ,255,275
+23960 Santtio   ,Pyh?ranta ,127,119
+24100 Salo Keskus   ,Salo ,4977,4117
+24130 Ylhäisi   ,Salo ,1983,1927
+24240 Rappula   ,Salo ,2093,1904
+24260 Ollikkala   ,Salo ,2280,2169
+24280 Tupuri-Hähkänä   ,Salo ,2604,2596
+24800 Halikko Keskus   ,Salo ,2396,2215
+24910 Halikko Asemanseutu   ,Salo ,542,570
+25110 Kruusila   ,Salo ,161,187
+25130 Muurla   ,Salo ,741,799
+25160 Tuohittu   ,Salo ,53,56
+25170 Kotalato   ,Salo ,66,74
+25180 Romsila   ,Salo ,120,125
+25190 Inkere   ,Salo ,490,528
+25210 Vartsala   ,Salo ,201,216
+25230 Angelniemi   ,Salo ,185,183
+25240 Hajala   ,Salo ,311,349
+25250 Märynummi   ,Salo ,520,512
+25260 Vaskio   ,Salo ,524,530
+25320 Raatala   ,Salo ,201,232
+25330 Kuusjoki Keskus   ,Salo ,391,423
+25340 Kanunki   ,Salo ,188,216
+25360 Pertteli Keskus   ,Salo ,624,610
+25370 Hiisi   ,Salo ,323,364
+25380 Rekijoki   ,Salo ,244,243
+25390 Kiikala Keskus   ,Salo ,395,433
+25410 Suomusjärvi Keskus   ,Salo ,581,563
+25420 Lahnajärvi   ,Salo ,74,72
+25430 Kettula   ,Salo ,31,36
+25460 Toija   ,Salo ,569,639
+25470 Kisko kk   ,Salo ,133,155
+25500 Perniö Keskus   ,Salo ,1781,1681
+25520 Perniö Asemanseutu   ,Salo ,326,322
+25540 Knaapila   ,Salo ,108,107
+25550 Aijala   ,Salo ,43,49
+25560 Koski Asemanseutu   ,Salo ,98,124
+25570 Teijo-Mathildedal   ,Salo ,291,280
+25610 Ylönkylä   ,Salo ,193,220
+25630 Finby   ,Salo ,150,145
+25640 Förby   ,Salo ,124,129
+25650 Strömma   ,Kemi?nsaari ,51,58
+25660 Mathildedal   ,Salo ,63,71
+25700 Kemiö Keskus   ,Kemi?nsaari ,1210,1147
+25710 Vreta-Vestlax   ,Kemi?nsaari ,151,172
+25730 Mjösund   ,Kemi?nsaari ,53,50
+25760 Kiila   ,Kemi?nsaari ,63,73
+25810 Mark   ,Kemi?nsaari ,24,36
+25820 Vestlax   ,Kemi?nsaari ,47,56
+25830 Västanfjärd Keskus   ,Kemi?nsaari ,227,245
+25840 Nivelax   ,Kemi?nsaari ,136,146
+25860 Björkboda   ,Kemi?nsaari ,168,162
+25870 Dragsfjärd   ,Kemi?nsaari ,470,460
+25900 Taalintehdas   ,Kemi?nsaari ,682,703
+25910 Vänoxa   ,Kemi?nsaari ,0,0
+25930 Kasnäs   ,Kemi?nsaari ,41,34
+25940 Hiittinen   ,Kemi?nsaari ,31,36
+25950 Rosala-Kasnäs-Hitis   ,Kemi?nsaari ,52,63
+25960 Högsåra   ,Kemi?nsaari ,25,19
+26100 Rauma Keskus   ,Rauma ,8458,7588
+26200 Merirauma-Kappelinluhta   ,Rauma ,2513,2538
+26410 Kaaro   ,Rauma ,788,814
+26510 Uotila   ,Rauma ,1308,1362
+26560 Kolla   ,Rauma ,351,370
+26660 Paroalho   ,Rauma ,2510,2454
+26720 Monnanummi   ,Rauma ,195,194
+26740 Vasarainen   ,Rauma ,257,280
+26820 Sampaanala   ,Rauma ,723,831
+26840 Kortela   ,Rauma ,381,432
+26910 Unaja   ,Rauma ,342,348
+26930 Vermuntila   ,Rauma ,274,338
+26950 Voiluoto   ,Rauma ,174,208
+27100 Eurajoki Keskus   ,Eurajoki ,1719,1653
+27110 Irjanne   ,Eurajoki ,279,297
+27130 Eurajoki asemanseutu   ,Eurajoki ,156,176
+27150 Lapijoki   ,Eurajoki ,617,653
+27160 Olkiluoto   ,Eurajoki ,0,0
+27170 Kuivalahti   ,Eurajoki ,171,177
+27220 Ala-Kieri   ,Rauma ,297,338
+27230 Lappi   ,Rauma ,1045,1035
+27250 Kodiksami   ,Rauma ,67,80
+27260 Kuolimaa   ,Rauma ,88,101
+27310 Kodisjoki   ,Rauma ,265,269
+27320 Ihode   ,Pyh?ranta ,380,384
+27340 Reila   ,Pyh?ranta ,227,264
+27400 Kiukainen Keskus   ,Eura ,675,690
+27420 Panelia Asemanseutu   ,Eura ,130,137
+27430 Panelia   ,Eura ,596,627
+27450 Harola   ,Eura ,100,116
+27500 Kauttua   ,Eura ,1617,1638
+27510 Eura Keskus   ,Eura ,2162,2063
+27600 Hinnerjoki   ,Eura ,348,387
+27640 Honkilahti kk   ,Eura ,144,164
+27650 Honkilahti   ,Eura ,154,157
+27670 Mannila   ,Eura ,91,88
+27710 Köyliö Keskus   ,S?kyl? ,526,549
+27730 Tuiskula   ,S?kyl? ,105,97
+27740 Voitoinen   ,S?kyl? ,76,92
+27750 Yttilä   ,S?kyl? ,167,175
+27800 Säkylä Keskus   ,S?kyl? ,1656,1520
+27820 Iso-Vimma   ,S?kyl? ,370,379
+27840 Kakkuri   ,S?kyl? ,228,233
+27860 Vuori   ,S?kyl? ,161,182
+27910 Huovinrinne   ,S?kyl? ,79,84
+27920 Otajoki   ,S?kyl? ,122,150
+28100 Pori Keskus   ,Pori ,7050,5507
+28120 Käppärä-Isomäki   ,Pori ,1878,1791
+28130 Impola   ,Pori ,3328,2883
+28190 Pormestarinluoto   ,Pori ,1993,1803
+28200 Toejoki   ,Pori ,2438,2387
+28220 Ruosniemi   ,Pori ,2427,2512
+28240 Isojoenranta   ,Pori ,346,399
+28260 Harjunpää   ,Ulvila ,478,509
+28300 Kalaholma-Väinölä   ,Pori ,1315,1295
+28330 Koivistonluoto   ,Pori ,1435,1364
+28360 Vanhakoivisto   ,Pori ,2327,2051
+28370 Sampola   ,Pori ,1669,1470
+28400 Ulvila Keskus   ,Ulvila ,2942,2763
+28430 Kartano-Harmaalinna   ,Pori ,843,837
+28450 Vanha-Ulvila   ,Ulvila ,2208,2118
+28500 Keskussairaala-alue-Tiilimäki   ,Pori ,519,397
+28540 Pinomäki   ,Pori ,312,340
+28560 Lattomeri   ,Pori ,227,260
+28580 Niittymaa   ,Pori ,287,300
+28600 Vähärauma   ,Pori ,2427,2511
+28610 Musa-Tiiliruukki   ,Pori ,1930,2014
+28660 Pietniemi-Leppäkorpi   ,Pori ,1955,1924
+28760 Kyläsaari   ,Pori ,1173,1161
+28800 Pihlava   ,Pori ,2119,2218
+28840 Yyteri-Kaanaa   ,Pori ,452,471
+28880 Mäntyluoto   ,Pori ,194,211
+28900 Tahkoluoto-Reposaari   ,Pori ,497,501
+29100 Luvia Keskus   ,Eurajoki ,1518,1549
+29180 Peränkylä   ,Eurajoki ,123,138
+29200 Harjavalta Keskus   ,Harjavalta ,3711,3519
+29250 Nakkila Keskus   ,Nakkila ,2441,2384
+29270 Hormisto   ,Nakkila ,227,233
+29280 Järvimaa   ,Nakkila ,140,146
+29310 Kaasmarkku   ,Ulvila ,270,315
+29320 Leineperi   ,Ulvila ,110,121
+29340 Kullaa Keskus   ,Ulvila ,435,493
+29350 Palus   ,Ulvila ,143,165
+29570 Söörmarkku   ,Pori ,494,499
+29600 Noormarkku Keskus   ,Pori ,2529,2348
+29630 Pomarkku Keskus   ,Pomarkku ,939,977
+29640 Honkakoski   ,Pomarkku ,137,148
+29680 Kairila   ,Pori ,132,177
+29700 Ahlainen   ,Pori ,400,422
+29720 Lamppi   ,Pori ,111,94
+29740 Etelämaa   ,Merikarvia ,52,58
+29750 Pohjansaha   ,Merikarvia ,55,59
+29760 Köörtilä   ,Merikarvia ,41,50
+29790 Tuorila   ,Merikarvia ,154,160
+29810 Siikainen Keskus   ,Siikainen ,423,460
+29830 Sammi   ,Siikainen ,85,114
+29860 Otamo   ,Siikainen ,59,75
+29880 Leväsjoki-Saarineva   ,Siikainen ,103,108
+29900 Merikarvia Keskus-Rannikko   ,Merikarvia ,1169,1086
+29940 Kuvaskangas   ,Merikarvia ,122,144
+30100 Forssa Keskus   ,Tammela ,5375,5049
+30300 Viksberg   ,Forssa ,1323,1263
+30420 Tölö   ,Forssa ,2564,2323
+31110 Matku   ,Forssa ,261,321
+31130 Koijärvi   ,Forssa ,114,146
+31140 Menonen   ,Urjala ,96,89
+31160 Nuutajärvi   ,Urjala ,155,127
+31170 Savijoki   ,Forssa ,100,101
+31230 Susikas   ,Tammela ,95,110
+31250 Teuro   ,Tammela ,100,115
+31300 Tammela Keskus   ,Tammela ,1633,1500
+31310 Mustiala   ,Tammela ,49,42
+31340 Porras   ,Tammela ,262,305
+31350 Vistinkoski   ,Tammela ,112,130
+31370 Eerikkilän Urheiluopisto   ,Tammela ,0,0
+31380 Letku-Torro   ,Tammela ,176,171
+31400 Somero Keskus   ,Somero ,3256,3022
+31410 Ylöpirtti   ,Somero ,176,193
+31450 Häntälä   ,Somero ,159,198
+31460 Hirsjärvi   ,Somero ,120,132
+31470 Somerniemi   ,Somero ,326,364
+31490 Terttilä   ,Somero ,124,133
+31500 Koski Tl   ,Koski Tl ,1220,1200
+31520 Pitkäjärvi   ,Somero ,267,263
+31530 Pyöli   ,Somero ,151,165
+31600 Jokioinen Keskus   ,Jokioinen ,1949,1808
+31610 Vaulammi   ,Jokioinen ,225,239
+31620 Latovainio   ,Jokioinen ,197,224
+31630 Minkiö   ,Jokioinen ,286,325
+31640 Humppila Keskus   ,Humppila ,1071,1095
+31650 Venäjänkangas   ,Humppila ,92,121
+31700 Urjala Asemanseutu-Hanhisuo   ,Urjala ,703,756
+31720 Urjalankylä-Kehro   ,Urjala ,187,188
+31730 Honkola   ,Urjala ,55,67
+31750 Kehro   ,Urjala ,26,26
+31760 Urjala Keskus   ,Urjala ,1011,876
+31810 Oriniemi   ,Punkalaidun ,192,209
+31830 Halkivaha   ,Urjala ,147,155
+31850 Koskioinen   ,Punkalaidun ,78,73
+31860 Tursa   ,Urjala ,141,173
+31900 Punkalaidun Keskus   ,Punkalaidun ,954,951
+31930 Vanttila   ,Punkalaidun ,46,71
+31950 Sadonmaa   ,Punkalaidun ,80,87
+31960 Orisuo   ,Loimaa ,27,45
+31970 Kanteenmaa   ,Punkalaidun ,73,87
+32100 Ypäjä Keskus   ,Yp?j? ,1023,1027
+32140 Ypäjä Asemanseutu   ,Yp?j? ,156,160
+32200 Loimaa Keskus   ,Loimaa ,4383,3934
+32210 Loimaa kk   ,Loimaa ,1216,1188
+32250 Kojonkulma   ,Loimaa ,153,167
+32260 Kojonperä   ,Loimaa ,77,88
+32270 Metsämaa-Murto   ,Loimaa ,222,251
+32280 Metsäkorpi   ,Loimaa ,85,90
+32300 Mellilä   ,Loimaa ,627,695
+32410 Niinijoki   ,Loimaa ,267,314
+32430 Ylhäinen   ,Loimaa ,42,47
+32440 Alastaro Keskus   ,Loimaa ,879,920
+32450 Tammiainen   ,Loimaa ,118,151
+32500 Oripää Keskus   ,Orip?? ,613,585
+32520 Latva   ,Orip?? ,64,89
+32560 Virttaa   ,Loimaa ,214,238
+32610 Vampula Keskus   ,Huittinen ,511,540
+32620 Rutava   ,Huittinen ,181,221
+32700 Huittinen Keskus   ,Huittinen ,4090,3827
+32710 Sampu   ,Huittinen ,294,327
+32730 Keikyä   ,Sastamala ,382,378
+32740 Äetsä Keskus   ,Sastamala ,887,912
+32760 Suttila   ,Huittinen ,87,92
+32770 Huhtamo   ,Huittinen ,102,119
+32800 Kokemäki Keskus   ,Kokem?ki ,2084,1975
+32810 Peipohja   ,Kokem?ki ,954,940
+32830 Riste   ,Kokem?ki ,250,245
+32860 Korkeaoja   ,Kokem?ki ,68,95
+32910 Kauvatsa Asemanseutu   ,Kokem?ki ,140,152
+32920 Kauvatsa   ,Kokem?ki ,289,305
+33100 Tampere Keskus   ,Tampere ,8907,7886
+33180 Lapinniemi-Käpylä   ,Tampere ,1310,986
+33200 Tampere Keskus Läntinen   ,Tampere ,3696,3055
+33210 Itä-Amuri-Tammerkoski   ,Tampere ,3256,2673
+33230 Länsi-Amuri   ,Tampere ,3301,2667
+33240 Tahmela   ,Tampere ,848,805
+33250 Pispala   ,Tampere ,1183,1156
+33270 Epilä   ,Tampere ,3990,3535
+33300 Rahola   ,Tampere ,2645,2441
+33310 Tesoma   ,Tampere ,3922,3440
+33330 Myllypuro-Kalkku   ,Tampere ,1708,1699
+33340 Haukiluoma-Ikuri   ,Tampere ,2622,2540
+33380 Pitkäniemi   ,Nokia ,13,19
+33400 Luoteis-Tampere   ,Tampere ,4110,3793
+33410 Lentävänniemi   ,Tampere ,2408,2103
+33420 Lamminpää   ,Tampere ,1072,1049
+33430 Vuorentausta   ,Yl?j?rvi ,1463,1459
+33450 Siivikkala   ,Yl?j?rvi ,1406,1463
+33470 Ylöjärvi Keskus   ,Yl?j?rvi ,3272,2968
+33480 Manninmäki-Haavisto   ,Yl?j?rvi ,3781,3579
+33500 Osmonmäki-Petsamo   ,Tampere ,6172,4947
+33520 Keskussairaala-alue-Kauppi   ,Tampere ,502,468
+33530 Kissanmaa   ,Tampere ,2360,2466
+33540 Kaleva   ,Tampere ,4708,3939
+33560 Takahuhti   ,Tampere ,5390,4710
+33580 Atala-Linnainmaa   ,Tampere ,7853,7338
+33610 Olkahinen-Tasanne   ,Tampere ,1940,1970
+33680 Aitolahti   ,Tampere ,842,859
+33700 Messukylä   ,Tampere ,870,901
+33710 Kaukajärvi   ,Tampere ,9236,8665
+33720 Hervanta   ,Tampere ,11629,13151
+33730 Leinola-Vehmainen   ,Tampere ,885,931
+33800 Nekala   ,Tampere ,2670,2560
+33820 Koivistonkylä   ,Tampere ,4688,4622
+33840 Peltolammi   ,Tampere ,1765,1713
+33850 Multisilta   ,Pirkkala ,1268,1211
+33870 Vuores   ,Lemp??l? ,1075,1017
+33880 Höytämö   ,Lemp??l? ,1887,1940
+33900 Härmälä-Rantaperkiö   ,Tampere ,5535,5107
+33920 Toivio   ,Pirkkala ,634,642
+33950 Killo   ,Pirkkala ,2838,2647
+33960 Suuppa   ,Pirkkala ,5316,5170
+33980 Pirkkala kk   ,Pirkkala ,669,759
+34110 Lakiala   ,Yl?j?rvi ,655,694
+34130 Ylinen   ,Yl?j?rvi ,610,713
+34140 Mutala   ,Yl?j?rvi ,383,422
+34150 Kyrönlahti   ,Yl?j?rvi ,192,223
+34180 Länsi-Teisko   ,Yl?j?rvi ,68,85
+34240 Kämmenteisko   ,Tampere ,826,878
+34260 Terälahti   ,Tampere ,442,447
+34270 Velaatta   ,Tampere ,129,171
+34300 Kuru Keskus   ,Yl?j?rvi ,756,800
+34320 Parkkuu   ,Yl?j?rvi ,109,119
+34330 Poikelus   ,Yl?j?rvi ,132,147
+34410 Murole   ,Ruovesi ,86,90
+34420 Muroleen Kanava   ,Ruovesi ,24,25
+34430 Kekkonen   ,Ruovesi ,61,65
+34450 Jäminkipohja   ,Ruovesi ,148,191
+34510 Luode   ,Yl?j?rvi ,51,52
+34530 Länsi-Aure   ,Yl?j?rvi ,32,46
+34550 Itä-Aure   ,Yl?j?rvi ,59,99
+34600 Ruovesi Keskus-Nenonen   ,Ruovesi ,1355,1280
+34640 Mustajärvi   ,Ruovesi ,101,110
+34710 Vaskivesi   ,Virrat ,175,197
+34730 Vaskuu   ,Virrat ,48,53
+34740 Koro   ,Virrat ,34,48
+34770 Kurjenkylä   ,Virrat ,107,127
+34800 Virrat Keskus   ,Virrat ,2366,2248
+34870 Visuvesi   ,Ruovesi ,279,313
+34910 Äijänneva   ,Virrat ,44,62
+34930 Liedenpohja   ,Virrat ,158,158
+34950 Ohtola   ,Virrat ,105,113
+34970 Toisvesi   ,Virrat ,54,55
+34980 Killinkoski   ,Virrat ,187,182
+35100 Orivesi Asemanseutu   ,Orivesi ,1498,1516
+35220 Eräjärvi   ,Orivesi ,259,255
+35240 Ristakallio   ,Orivesi ,99,92
+35260 Leväslahti   ,Orivesi ,0,0
+35270 Västilä   ,Orivesi ,72,83
+35300 Orivesi Keskus   ,Orivesi ,2434,2207
+35320 Hirsilä   ,Orivesi ,277,301
+35400 Länkipohja   ,J?ms? ,454,467
+35420 Talviainen   ,Orivesi ,49,60
+35480 Längelmäki   ,Orivesi ,28,32
+35500 Korkeakoski   ,Juupajoki ,534,545
+35520 Pirttikangas   ,Juupajoki ,35,36
+35530 Lyly   ,Juupajoki ,135,149
+35540 Juupajoki   ,Juupajoki ,212,236
+35550 Salokunta   ,Juupajoki ,77,80
+35600 Halli   ,J?ms? ,658,699
+35610 Pihlaisto   ,J?ms? ,46,43
+35630 Suinula-Valkamanperä   ,J?ms? ,86,93
+35700 Vilppula Keskus   ,M?ntt?-Vilppula ,1728,1685
+35740 Ylä-Vääri   ,Ruovesi ,54,54
+35750 Väärinmaja   ,Ruovesi ,132,159
+35800 Mänttä   ,M?ntt?-Vilppula ,2218,1957
+35820 Asemakulma-Mustalahti   ,J?ms? ,1015,1112
+35990 Kolho   ,M?ntt?-Vilppula ,571,569
+36100 Kangasala Asemanseutu   ,Kangasala ,552,628
+36110 Ruutana   ,Kangasala ,1368,1468
+36120 Suinula-Haviseva   ,Kangasala ,532,581
+36200 Kangasala Keskus   ,Kangasala ,5161,4805
+36220 Suorama   ,Kangasala ,2501,2432
+36240 Nattari   ,Kangasala ,2370,2333
+36270 Huutijärvi   ,Kangasala ,692,726
+36280 Pikonlinna   ,Kangasala ,74,56
+36340 Tohkala   ,Kangasala ,126,132
+36420 Sahalahti Keskus   ,Kangasala ,913,865
+36430 Pakkala   ,Kangasala ,224,245
+36450 Salmentaka   ,P?lk?ne ,108,116
+36520 Raikku   ,Kangasala ,171,198
+36570 Kaivanto   ,Kangasala ,147,157
+36600 Pälkäne Keskus   ,P?lk?ne ,1787,1697
+36640 Iltasmäki   ,P?lk?ne ,194,204
+36660 Laitikkala   ,P?lk?ne ,102,112
+36720 Aitoo   ,P?lk?ne ,277,292
+36760 Luopioinen Keskus   ,P?lk?ne ,421,405
+36810 Kuhmalahti Keskus   ,Kangasala ,265,275
+36840 Kuhmajärvi   ,Kangasala ,167,159
+36880 Vehkajärvi   ,Kangasala ,66,75
+36910 Rautajärvi   ,P?lk?ne ,193,189
+36930 Kyynärö   ,P?lk?ne ,84,95
+37100 Nokia Keskus   ,Nokia ,3550,3022
+37120 Koskenmäki   ,Nokia ,5123,5141
+37130 Alhoniitty   ,Nokia ,2348,2364
+37140 Harjuniitty   ,Nokia ,1265,1288
+37150 Kankaantaka   ,Nokia ,2111,2010
+37180 Sarkola   ,Nokia ,192,201
+37200 Siuro   ,Nokia ,1227,1299
+37210 Kulovesi   ,Nokia ,0,0
+37240 Linnavuori   ,Nokia ,361,432
+37310 Tottijärvi   ,Nokia ,407,452
+37350 Rämsöö   ,Vesilahti ,73,79
+37370 Narva   ,Vesilahti ,506,561
+37380 Krääkkiö   ,Vesilahti ,86,99
+37420 Valkkinen   ,Vesilahti ,409,403
+37470 Vesilahti Keskus   ,Vesilahti ,980,1015
+37500 Lempäälä Keskus   ,Lemp??l? ,4178,3912
+37530 Säijä   ,Lemp??l? ,255,286
+37550 Kuivaspää   ,Lemp??l? ,2496,2437
+37560 Kulju   ,Lemp??l? ,2249,2308
+37570 Koivuniemi   ,Lemp??l? ,204,234
+37600 Valkeakoski Keskus   ,Valkeakoski ,5874,5615
+37630 Vääräkoivu   ,Valkeakoski ,3664,3545
+37700 Sääksmäki   ,Valkeakoski ,233,226
+37720 Ritvala   ,Valkeakoski ,100,108
+37740 Haukila   ,Valkeakoski ,147,153
+37770 Tarttila   ,Valkeakoski ,251,227
+37800 Toijala keskus   ,Akaa ,4775,4641
+37830 Viiala Keskus   ,Akaa ,2857,2811
+37850 Metsäkansa   ,Valkeakoski ,176,172
+37860 Kärjenniemi   ,Valkeakoski ,442,450
+37900 Kylmäkoski Asemanseutu   ,Akaa ,137,160
+37910 Kylmäkoski Keskus   ,Akaa ,656,687
+37960 Sotkia   ,Akaa ,127,136
+38100 Karkku   ,Sastamala ,422,443
+38120 Kutala   ,Sastamala ,104,124
+38130 Ellivuori   ,Sastamala ,0,0
+38140 Kärppälä   ,Sastamala ,175,195
+38200 Vammala Keskus   ,Sastamala ,3459,2844
+38210 Vammala Asemanseutu   ,Sastamala ,2153,2118
+38220 Stormi   ,Sastamala ,406,438
+38250 Roismala   ,Sastamala ,659,727
+38270 Sammaljoki   ,Sastamala ,165,190
+38280 Illo   ,Sastamala ,228,225
+38300 Kiikka   ,Sastamala ,930,982
+38360 Kiikoinen   ,Sastamala ,588,598
+38420 Häijää   ,Sastamala ,512,542
+38460 Mouhijärvi Keskus   ,Sastamala ,867,883
+38470 Hyynilä   ,Sastamala ,123,148
+38490 Haukijärvi   ,H?meenkyr? ,38,36
+38510 Suodenniemi   ,Sastamala ,590,646
+38600 Lavia Keskus   ,Pori ,760,754
+38650 Yli-Putto   ,Pori ,64,90
+38670 Kalliala-Haunia   ,Pori ,87,96
+38680 Tuunajärvi   ,Pomarkku ,40,57
+38700 Kankaanpää Keskus   ,Kankaanp?? ,3255,2903
+38710 Myllymäki   ,Kankaanp?? ,1118,983
+38720 Vihteljärvi   ,Kankaanp?? ,209,230
+38740 Hapuoja   ,Kankaanp?? ,196,225
+38750 Veneskoski   ,Kankaanp?? ,125,144
+38760 Venesjärvi   ,Kankaanp?? ,161,204
+38770 Lohikko   ,Kankaanp?? ,226,245
+38800 Jämijärvi Keskus   ,J?mij?rvi ,825,837
+38840 Niinisalo   ,Kankaanp?? ,407,467
+38860 Suurimaa   ,J?mij?rvi ,106,108
+38910 Ala-Honkajoki   ,Kankaanp?? ,246,305
+38920 Vatajankoski   ,Honkajoki ,106,128
+38950 Honkajoki Keskus   ,Honkajoki ,659,696
+38970 Lauhala   ,Honkajoki ,123,144
+39100 Hämeenkyrö Keskus   ,H?meenkyr? ,1729,1654
+39110 Simuna   ,H?meenkyr? ,113,110
+39130 Sasi   ,H?meenkyr? ,391,387
+39150 Pinsiö   ,H?meenkyr? ,421,479
+39160 Julkujärvi   ,Yl?j?rvi ,1828,1850
+39170 Jumesniemi   ,H?meenkyr? ,92,86
+39180 Herttuala   ,H?meenkyr? ,45,46
+39195 Kaipio   ,H?meenkyr? ,80,104
+39200 Kyröskoski   ,H?meenkyr? ,2485,2473
+39230 Osara   ,H?meenkyr? ,100,101
+39290 Vesajärvi   ,H?meenkyr? ,77,87
+39310 Viljakkala Keskus   ,Yl?j?rvi ,515,525
+39340 Karhe   ,Yl?j?rvi ,145,157
+39360 Komi   ,Yl?j?rvi ,112,121
+39380 Lavajärvi   ,H?meenkyr? ,89,93
+39410 Luhalahti   ,Ikaalinen ,147,166
+39430 Röyhiö   ,Ikaalinen ,85,97
+39450 Sisättö   ,Ikaalinen ,49,76
+39500 Ikaalinen Keskus   ,Ikaalinen ,2436,2165
+39530 Kilvakkala   ,Ikaalinen ,477,561
+39580 Riitiala   ,Ikaalinen ,170,203
+39590 Tevaniemi   ,Ikaalinen ,119,128
+39610 Kovelahti   ,Ikaalinen ,105,109
+39620 Kovesjoki   ,Parkano ,93,104
+39660 Lapinneva   ,Parkano ,113,143
+39700 Parkano Keskus   ,Parkano ,2782,2785
+39750 Vatajanjärvi   ,Parkano ,169,207
+39770 Aureskoski   ,Parkano ,39,39
+39780 Alaskylä   ,Parkano ,95,115
+39810 Linnankylä   ,Kihni? ,169,180
+39820 Kihniö Keskus   ,Kihni? ,784,798
+39880 Kihniö Asemanseutu   ,Kihni? ,59,75
+39920 Suomijärvi   ,Karvia ,75,87
+39930 Karvia Keskus   ,Karvia ,553,568
+39940 Kantti   ,Karvia ,128,133
+39960 Sarvela   ,Karvia ,207,234
+39965 Karviankylä   ,Karvia ,85,97
+39980 Sara   ,Karvia ,83,90
+39990 Alkkia   ,Karvia ,42,68
+40100 Jyväskylä Keskus   ,Jyv?skyl? ,7573,6251
+40200 Mannila-Taulumäki   ,Jyv?skyl? ,2007,1682
+40250 Ritoniemi-Lohikoski   ,Jyv?skyl? ,3123,2973
+40270 Pappilanrinne-Pappilanvuori   ,Jyv?skyl? ,5746,5390
+40320 Seppälän Teollisuusalue   ,Jyv?skyl? ,2669,2434
+40340 Huhtasuo   ,Jyv?skyl? ,3134,3025
+40400 Halssila   ,Jyv?skyl? ,2214,2029
+40420 Jyskä   ,Jyv?skyl? ,2405,2416
+40500 Keljo-Ristonmaa   ,Jyv?skyl? ,1629,1711
+40520 Kuokkala-Ristikivi   ,Jyv?skyl? ,8007,8083
+40530 Keljonkangas   ,Jyv?skyl? ,2736,2799
+40600 Mattilanpelto   ,Jyv?skyl? ,1172,1090
+40620 Keskussairaala-alue-Kukkumäki   ,Jyv?skyl? ,213,160
+40630 Kypärämäki   ,Jyv?skyl? ,1862,1937
+40640 Keltinmäki   ,Jyv?skyl? ,3325,3329
+40660 Länsi-Palokka   ,Jyv?skyl? ,343,360
+40700 Mäki-Matti   ,Jyv?skyl? ,2812,2386
+40720 Nisula   ,Jyv?skyl? ,1535,1177
+40740 Kortepohja   ,Jyv?skyl? ,3796,3595
+40800 Vaajakoski   ,Jyv?skyl? ,4088,4047
+40820 Vuoritsalo   ,Jyv?skyl? ,429,464
+40900 Säynätsalo   ,Jyv?skyl? ,1590,1736
+40930 Kinkomaa   ,Muurame ,697,694
+40950 Muurame Keskus   ,Muurame ,3959,3984
+41120 Puuppola   ,Jyv?skyl? ,1004,1040
+41140 Kuikka   ,Jyv?skyl? ,316,326
+41160 Tikkakoski   ,Jyv?skyl? ,2430,2425
+41180 Vehniä   ,Laukaa ,376,409
+41210 Jokihaara   ,Uurainen ,216,231
+41220 Höytiä   ,Uurainen ,144,165
+41230 Uurainen Keskus   ,Uurainen ,832,867
+41240 Kyynämöinen   ,Uurainen ,105,143
+41260 Hoikankylä   ,Saarij?rvi ,79,83
+41270 Lannevesi   ,Saarij?rvi ,263,274
+41290 Kangashäkki   ,Uurainen ,402,413
+41310 Leppävesi   ,Laukaa ,1500,1573
+41325 Laukkavirta   ,Laukaa ,146,160
+41330 Vihtavuori   ,Laukaa ,1293,1336
+41340 Laukaa Keskus   ,Laukaa ,2931,2641
+41350 Laukaa Asemanseutu   ,Laukaa ,392,392
+41360 Valkola   ,Laukaa ,221,251
+41370 Kuusa   ,Laukaa ,517,566
+41390 Äijälä   ,Laukaa ,220,243
+41400 Lievestuore   ,Laukaa ,1654,1741
+41410 Kankainen   ,Toivakka ,91,105
+41440 Ruuhimäki   ,Toivakka ,101,129
+41450 Leppälahti   ,Jyv?skyl? ,331,351
+41490 Niemisjärvi   ,Hankasalmi ,379,405
+41500 Hankasalmi Asemanseutu   ,Hankasalmi ,722,736
+41520 Hankasalmi Keskus   ,Hankasalmi ,1062,936
+41530 Veneranta   ,Hankasalmi ,79,86
+41540 Ristimäki   ,Hankasalmi ,118,133
+41550 Hannula   ,Hankasalmi ,74,88
+41560 Säkinmäki   ,Hankasalmi ,64,104
+41580 Sauvamäki   ,Hankasalmi ,138,139
+41630 Oravasaari   ,Jyv?skyl? ,190,214
+41660 Toivakka Keskus   ,Toivakka ,930,957
+41710 Rutalahti-Kivisuo   ,Jyv?skyl? ,137,140
+41730 Kivisuo   ,Joutsa ,14,18
+41750 Havumäki   ,Joutsa ,38,54
+41770 Leivonmäki   ,Joutsa ,316,328
+41800 Korpilahti Keskus   ,Jyv?skyl? ,1847,1796
+41820 Saakoski   ,Jyv?skyl? ,147,173
+41840 Moksi   ,Jyv?skyl? ,37,50
+41860 Rannila   ,Jyv?skyl? ,129,132
+41870 Putkilahti   ,Jyv?skyl? ,73,91
+41880 Oittila   ,Jyv?skyl? ,65,64
+41900 Petäjävesi Keskus   ,Pet?j?vesi ,1373,1375
+41920 Kintaus   ,Pet?j?vesi ,302,317
+41925 Ylä-Kintaus   ,Pet?j?vesi ,90,104
+41930 Kuohu   ,Jyv?skyl? ,416,459
+41940 Vesanka   ,Jyv?skyl? ,659,722
+41970 Huttula   ,Keuruu ,26,28
+41980 Kuivasmäki   ,Pet?j?vesi ,81,94
+42100 Jämsä Keskus   ,J?ms? ,5327,5109
+42140 Juokslahti   ,J?ms? ,139,152
+42220 Kaipola   ,J?ms? ,540,564
+42300 Jämsänkoski Keskus   ,J?ms? ,2748,2753
+42330 Haavisto   ,J?ms? ,209,209
+42440 Koskenpää   ,J?ms? ,297,367
+42520 Asunta   ,Keuruu ,74,89
+42560 Pohjoisjärvi   ,Keuruu ,18,21
+42600 Multia Keskus-Väätäiskylä   ,Multia ,711,740
+42660 Sahrajärvi   ,Multia ,57,67
+42700 Keuruu Keskus   ,Keuruu ,4180,3850
+42720 Valkealahti   ,Keuruu ,0,0
+42800 Haapamäki   ,Keuruu ,573,612
+42820 Riiho   ,Keuruu ,33,52
+42830 Ylä-Kolkki   ,M?ntt?-Vilppula ,27,29
+42840 Kolkki   ,M?ntt?-Vilppula ,55,69
+42850 Pohjaslahti   ,M?ntt?-Vilppula ,67,76
+42870 Kotala   ,Virrat ,207,227
+42910 Pihlajavesi   ,Keuruu ,151,170
+42930 Katajamäki   ,Keuruu ,47,61
+43100 Saarijärvi Keskus   ,Saarij?rvi ,3253,3045
+43130 Tarvaala   ,Saarij?rvi ,189,225
+43170 Häkkilä   ,Saarij?rvi ,108,141
+43220 Mahlu   ,Saarij?rvi ,212,238
+43240 Lehtola   ,Saarij?rvi ,80,93
+43250 Kolkanlahti   ,Saarij?rvi ,173,178
+43270 Kalmari   ,Saarij?rvi ,232,279
+43300 Kannonkoski Keskus   ,Kannonkoski ,608,621
+43340 Kannonjärvi   ,Kannonkoski ,77,96
+43390 Lokakylä   ,Kivij?rvi ,38,39
+43420 Kukko   ,Saarij?rvi ,26,37
+43430 Väätäiskylä   ,Multia ,16,23
+43440 Pylkönmäki Keskus   ,Saarij?rvi ,251,277
+43480 Pääjärvi   ,Saarij?rvi ,68,82
+43490 Kangasaho   ,Karstula ,77,93
+43500 Karstula Keskus   ,Karstula ,1537,1384
+43520 Kiminki   ,Karstula ,113,118
+43540 Rantakylä-Pirttilahti   ,Karstula ,73,87
+43560 Vahanka   ,Karstula ,87,100
+43610 Aho   ,Karstula ,47,44
+43640 Humppi   ,Karstula ,70,80
+43660 Vastinki   ,Karstula ,119,126
+43700 Kyyjärvi Keskus   ,Kyyj?rvi ,601,628
+43720 Kumpulainen   ,Kyyj?rvi ,51,59
+43800 Kivijärvi Keskus-Sompala   ,Kivij?rvi ,489,547
+43840 Sompala   ,Kivij?rvi ,21,22
+43900 Kinnula Keskus   ,Kinnula ,667,750
+43940 Muhola-Saarensalmi   ,Kinnula ,104,150
+43960 Saarensalmi   ,Kinnula ,33,38
+44100 Äänekoski Keskus   ,??nekoski ,2282,1942
+44120 Mämmensalmi-Mustaniemi   ,??nekoski ,1249,1344
+44150 Likolahti-Karhunlähde   ,??nekoski ,1669,1699
+44160 Huutomäki   ,??nekoski ,224,271
+44170 Hietama   ,??nekoski ,244,291
+44190 Parantala   ,??nekoski ,134,125
+44200 Suolahti Keskus   ,??nekoski ,2299,2323
+44220 Sörkänmäki   ,??nekoski ,180,231
+44250 Äänekoivisto   ,??nekoski ,264,280
+44260 Vihijärvi   ,??nekoski ,140,159
+44280 Sumiainen Keskus   ,??nekoski ,423,440
+44300 Konnevesi Keskus   ,Konnevesi ,900,860
+44320 Sirkkamäki   ,Konnevesi ,61,68
+44330 Hytölä   ,Konnevesi ,145,161
+44350 Istunmäki   ,Konnevesi ,156,213
+44370 Mäntymäki   ,Konnevesi ,82,95
+44400 Konginkangas Keskus   ,??nekoski ,344,353
+44420 Liimattala   ,??nekoski ,171,205
+44440 Räihä   ,??nekoski ,55,67
+44460 Kalaniemi   ,??nekoski ,63,80
+44480 Niinilahti   ,Viitasaari ,73,79
+44500 Viitasaari Keskus   ,Viitasaari ,2305,2076
+44530 Ilmolahti   ,Viitasaari ,73,94
+44580 Huopanankoski   ,Viitasaari ,111,115
+44590 Vuorilahti   ,Viitasaari ,34,34
+44610 Kärnä   ,Viitasaari ,81,100
+44630 Kumpumäki   ,Viitasaari ,77,104
+44640 Kymönkoski   ,Viitasaari ,174,200
+44670 Suovanlahti   ,Viitasaari ,73,88
+44680 Lahnanen   ,Viitasaari ,30,36
+44730 Löytänä   ,Viitasaari ,50,49
+44740 Keitelepohja-Kotvala   ,Viitasaari ,96,107
+44760 Keihärinkoski   ,Viitasaari ,150,182
+44770 Valkeisjärvi   ,Viitasaari ,0,0
+44790 Kotvala   ,Viitasaari ,15,28
+44800 Pihtipudas Keskus   ,Pihtipudas ,1323,1170
+44860 Alvajärvi   ,Pihtipudas ,129,123
+44880 Muurasjärvi   ,Pihtipudas ,304,321
+44910 Elämäjärvi   ,Pihtipudas ,105,125
+44920 Peninki   ,Pihtipudas ,104,102
+44950 Kärväsjärvi   ,Pihtipudas ,86,109
+44970 Korppinen   ,Pihtipudas ,83,101
+45100 Kouvola Keskus   ,Kouvola ,5170,4339
+45120 Kotkankallio-Vahteranmäki   ,Kouvola ,2041,1916
+45130 Korjala-Kaunisnurmi   ,Kouvola ,893,835
+45150 Kankaronmäki-Eskolanmäki   ,Kouvola ,2554,2368
+45160 Lehtomäki   ,Kouvola ,2603,2565
+45200 Tornionmäki   ,Kouvola ,3185,2912
+45330 Harju   ,Kouvola ,164,163
+45360 Kukkuramäki   ,Kouvola ,1931,1888
+45370 Valkeala kk   ,Kouvola ,1403,1330
+45410 Utti   ,Kouvola ,401,452
+45460 Savero   ,Kouvola ,87,93
+45610 Koria   ,Kouvola ,2510,2564
+45700 Kuusankoski Keskus   ,Kouvola ,4842,4082
+45720 Kotiharju-Ruhjonmäki   ,Kouvola ,1354,1458
+45740 Maunuksela   ,Iitti ,1460,1461
+45750 Kuusankosken Sairaala-alue   ,Kouvola ,41,50
+45810 Pilkanmaa   ,Kouvola ,739,809
+45910 Voikkaa   ,Kouvola ,1304,1400
+45940 Oravala   ,Kouvola ,143,166
+46110 Tuohikotti   ,Kouvola ,175,203
+46140 Vekaranjärvi   ,Kouvola ,67,90
+46230 Aro   ,Kouvola ,248,262
+46400 Kaipiainen   ,Kouvola ,237,256
+46430 Tirva-Inkerilä   ,Kouvola ,133,153
+46450 Enäjärvi   ,Kouvola ,80,85
+46530 Kannuskoski   ,Luum?ki ,80,94
+46570 Saaramaa   ,Kouvola ,15,28
+46710 Sippola   ,Kouvola ,378,404
+46730 Ruotila   ,Kouvola ,55,65
+46750 Liikkala   ,Kouvola ,142,157
+46800 Myllykoski   ,Kouvola ,2471,2350
+46810 Ummeljoki   ,Kouvola ,690,747
+46860 Anjalankoski Keskus   ,Kouvola ,292,306
+46900 Inkeroinen   ,Kouvola ,1947,1850
+46910 Anjala   ,Kouvola ,977,977
+46930 Huruksela   ,Kotka ,106,125
+46950 Ahvio   ,Kouvola ,31,38
+46960 Muhniemi   ,Kouvola ,154,174
+47110 Löytty   ,Kouvola ,48,50
+47150 Raussila   ,Kouvola ,71,87
+47200 Elimäki kk   ,Kouvola ,1230,1162
+47260 Ratula   ,Kouvola ,58,82
+47310 Haapa-Kimola   ,Iitti ,124,137
+47350 Kimonkylä   ,Lapinj?rvi ,70,73
+47400 Kausala   ,Iitti ,2383,2286
+47440 Sääskjärvi   ,Iitti ,64,84
+47450 Erottaja   ,Iitti ,141,137
+47460 Hiisiö   ,Iitti ,32,31
+47490 Mankala-Hiisiö   ,Iitti ,166,174
+47520 Iitti kk   ,Iitti ,80,73
+47540 Löyttilä   ,Iitti ,91,98
+47610 Kymentaka   ,Iitti ,74,74
+47650 Kimola   ,Kouvola ,102,107
+47710 Jaala kk   ,Kouvola ,553,586
+47760 Huhdasjärvi   ,Kouvola ,64,64
+47810 Selänpää   ,Kouvola ,158,171
+47830 Hasula   ,Kouvola ,56,65
+47850 Verla   ,Kouvola ,73,81
+47900 Vuohijärvi   ,Kouvola ,103,142
+47910 Hillosensalmi   ,Kouvola ,13,18
+48100 Kotkansaari   ,Kotka ,5722,4741
+48130 Katariina   ,Kotka ,321,393
+48200 Hovinsaari   ,Kotka ,842,878
+48210 Toukolan Sairaala-Alue   ,Kotka ,162,152
+48220 Metsola   ,Kotka ,705,703
+48230 Korela-Jylppy   ,Kotka ,694,812
+48300 Ruonala   ,Kotka ,597,614
+48310 Mussalo   ,Kotka ,2311,2245
+48350 Karhuvuori   ,Kotka ,1832,1707
+48400 Sutela   ,Kotka ,2141,2118
+48410 Kaukola   ,Kotka ,834,857
+48600 Karhula   ,Kotka ,3866,3403
+48700 Kyminlinna   ,Kotka ,1296,1205
+48710 Koivula   ,Kotka ,663,723
+48720 Kymi   ,Kotka ,851,999
+48750 Nikeli   ,Kotka ,90,88
+48770 Ristinkallio   ,Kotka ,925,985
+48800 Otsola-Mäntykangas   ,Kotka ,1101,1124
+48810 Rantahaka   ,Kotka ,366,411
+48900 Sunila   ,Kotka ,636,729
+48910 Suulisniemi   ,Kotka ,736,759
+48930 Tiutinen   ,Kotka ,163,181
+49200 Heinlahti   ,Pyht?? ,382,385
+49210 Huutjärvi   ,Pyht?? ,534,466
+49220 Siltakylä   ,Pyht?? ,902,912
+49240 Purolanlahti   ,Pyht?? ,197,201
+49270 Pyhtää kk   ,Pyht?? ,420,446
+49290 Vastila   ,Pyht?? ,215,224
+49300 Tavastila   ,Kotka ,328,367
+49340 Juurikorpi   ,Kotka ,56,78
+49400 Hamina Keskus   ,Hamina ,5336,4767
+49410 Poitsila   ,Hamina ,962,996
+49420 Uusi-Summa   ,Hamina ,999,1021
+49460 Hillo   ,Hamina ,572,627
+49480 Vanha-Summa   ,Hamina ,214,264
+49490 Neuvoton   ,Hamina ,724,724
+49510 Husula   ,Hamina ,585,576
+49520 Reitkalli   ,Hamina ,135,135
+49540 Metsäkylä   ,Hamina ,216,264
+49570 Kannusjärvi   ,Hamina ,200,220
+49610 Sivatti   ,Hamina ,45,50
+49630 Vehkajoki   ,Hamina ,52,65
+49640 Paijärvi   ,Hamina ,75,86
+49660 Pyhältö   ,Hamina ,289,317
+49700 Miehikkälä Kirkonkylä   ,Miehikk?l? ,458,436
+49720 Hurttala   ,Miehikk?l? ,27,31
+49730 Muurikkala   ,Miehikk?l? ,161,152
+49750 Kalliokoski   ,Miehikk?l? ,77,68
+49760 Suur-Miehikkälä   ,Miehikk?l? ,102,122
+49770 Salo-Miehikkälä   ,Miehikk?l? ,116,116
+49780 Onkamaa   ,Hamina ,42,54
+49840 Mäntlahti   ,Hamina ,64,73
+49860 Klamila   ,Virolahti ,324,354
+49900 Virolahti Keskus   ,Virolahti ,981,973
+49930 Vaalimaa   ,Virolahti ,85,89
+49960 Ala-Pihlaja   ,Virolahti ,102,114
+49980 Ravijoki   ,Virolahti ,128,140
+50100 Mikkeli Keskus   ,Mikkeli ,5192,4102
+50120 Siekkilä   ,Mikkeli ,826,761
+50130 Nuijamies   ,Mikkeli ,1595,1462
+50150 Karkialampi   ,Mikkeli ,653,697
+50160 Kattilansilta   ,Mikkeli ,1318,1218
+50170 Peitsari   ,Mikkeli ,3029,2890
+50180 Visulahti   ,Mikkeli ,402,422
+50190 Tuppurala   ,Mikkeli ,2572,2320
+50200 Kovala   ,Mikkeli ,295,344
+50300 Rämälä   ,Mikkeli ,164,174
+50350 Norola   ,Mikkeli ,153,178
+50500 Tuukkala-Kaituenmäki   ,Mikkeli ,778,779
+50520 Moision Sairaala-alue   ,Mikkeli ,64,73
+50600 Karikko   ,Mikkeli ,2435,2393
+50670 Otava   ,Mikkeli ,930,991
+50700 Syysjärvi   ,Mikkeli ,260,280
+50770 Korpikoski   ,Mikkeli ,115,129
+50800 Annilanselkä   ,Mikkeli ,279,285
+50970 Ihastjärvi   ,Mikkeli ,1272,1241
+51130 Vanhamäki   ,Mikkeli ,69,97
+51200 Kangasniemi Keskus   ,Kangasniemi ,1997,1892
+51260 Tahkomäki   ,Kangasniemi ,74,91
+51270 Kutemajärvi   ,Kangasniemi ,100,123
+51310 Levä   ,Kangasniemi ,54,82
+51335 Kaihlamäki   ,Kangasniemi ,21,20
+51340 Hännilä-Särkiharju   ,Kangasniemi ,146,168
+51360 Koivula-Synsiö   ,Kangasniemi ,84,104
+51380 Synsiö   ,Kangasniemi ,21,27
+51420 Harjumaa-Pajulankylä   ,Mikkeli ,114,137
+51430 Läsäkoski   ,Kangasniemi ,37,43
+51440 Vuojalahti   ,Kangasniemi ,114,135
+51450 Pajulankylä   ,Mikkeli ,28,33
+51460 Luusniemi   ,Kangasniemi ,97,119
+51520 Hiirola   ,Mikkeli ,211,222
+51540 Kalvitsa   ,Mikkeli ,150,186
+51600 Haukivuori Keskus-Piitkäaho   ,Mikkeli ,755,715
+51620 Pitkäaho   ,Mikkeli ,0,0
+51670 Nykälä   ,Mikkeli ,73,76
+51720 Rahula   ,Mikkeli ,240,266
+51740 Huuhanaho   ,Mikkeli ,100,123
+51760 Nuutilanmäki   ,Juva ,144,165
+51780 Kuosmala   ,Juva ,68,77
+51810 Maivala   ,Juva ,76,80
+51820 Hatsola   ,Juva ,137,144
+51850 Vuorenmaa   ,Juva ,94,123
+51860 Narila   ,Juva ,36,42
+51880 Koikkala   ,Juva ,113,128
+51890 Risulahti   ,Juva ,45,42
+51900 Juva Keskus   ,Juva ,2321,2157
+51930 Paatela   ,Juva ,79,103
+51940 Härkälä   ,Juva ,54,69
+51980 Lauteala   ,Juva ,109,133
+52100 Anttola   ,Mikkeli ,778,744
+52110 Majavesi   ,Mikkeli ,180,201
+52150 Hauhala   ,Mikkeli ,60,69
+52200 Puumala Keskus   ,Puumala ,923,932
+52230 Hurissalo   ,Puumala ,113,118
+52270 Ryhälä   ,Puumala ,21,21
+52300 Ristiina Keskus   ,Mikkeli ,1577,1436
+52320 Vitsiälä   ,Mikkeli ,172,175
+52330 Heimari   ,Mikkeli ,18,28
+52340 Hangastenmaa   ,Mikkeli ,96,107
+52360 Someenjärvi   ,Mikkeli ,38,63
+52420 Pellosniemi   ,Mikkeli ,299,369
+52510 Hietanen   ,Hirvensalmi ,226,276
+52520 Syväsmäki   ,Hirvensalmi ,79,79
+52550 Hirvensalmi Keskus   ,Hirvensalmi ,822,809
+52610 Tuukkalanlahti   ,Hirvensalmi ,56,58
+52620 Kuitula   ,Hirvensalmi ,40,54
+52700 Mäntyharju Keskus   ,M?ntyharju ,2595,2438
+52720 Karankamäki-Koirakivi   ,M?ntyharju ,46,56
+52730 Koirakivi   ,M?ntyharju ,40,34
+52740 Tuustaipale   ,M?ntyharju ,135,148
+52760 Mynttilä   ,M?ntyharju ,47,56
+52780 Kuomiokoski   ,Mikkeli ,52,57
+52830 Suomenniemi   ,Mikkeli ,328,354
+52850 Halmeniemi   ,M?ntyharju ,59,69
+52890 Käävänkylä   ,M?ntyharju ,42,50
+52920 Voikoski   ,Kouvola ,63,67
+52960 Nurmaa   ,M?ntyharju ,57,60
+52970 Pankalahti-Ahvenainen   ,M?ntyharju ,33,56
+52980 Ahvenainen   ,M?ntyharju ,33,40
+53100 Lappeenranta keskus   ,Lappeenranta ,5787,4407
+53130 Keskussairaala-alue-Kimpinen   ,Lappeenr,366,344
+53200 Kaukas-Tirilä   ,Lappeenranta ,808,739
+53300 Lauritsala-Mälkiä   ,Lappeenranta ,4009,3971
+53400 Laihia   ,Lappeenranta ,990,1015
+53420 Mustola   ,Lappeenranta ,302,280
+53500 Parkkarila-Harapainen-Reijola   ,Lappee,2548,2648
+53550 Kourulanmäki   ,Lappeenranta ,570,574
+53600 Kesämäki   ,Lappeenranta ,1336,1074
+53650 Mattila-Kuusela   ,Lappeenranta ,967,1052
+53810 Kuusimäki-Lavola   ,Lappeenranta ,1904,1906
+53830 Rutola   ,Lappeenranta ,341,360
+53850 Skinnarila   ,Lappeenranta ,5190,5891
+53900 Pallo-Tysterniemi-Leiri   ,Lappeenranta ,1552,1357
+53920 Voisalmi   ,Lappeenranta ,1644,1548
+53950 Kivisalmi   ,Lappeenranta ,1065,1068
+54100 Joutseno Keskus   ,Lappeenranta ,2761,2664
+54110 Lampikangas   ,Lappeenranta ,540,543
+54120 Pulp   ,Lappeenranta ,862,933
+54190 Konnunsuo   ,Lappeenranta ,31,44
+54230 Nuijamaa   ,Lappeenranta ,321,346
+54250 Rapattila   ,Lappeenranta ,79,84
+54260 Hanhijärvi   ,Lappeenranta ,374,404
+54270 Vainikkala   ,Lappeenranta ,216,255
+54300 Vilkjärvi   ,Lappeenranta ,302,321
+54310 Hytti   ,Lappeenranta ,211,234
+54330 Simola   ,Lappeenranta ,203,220
+54390 Pulsa   ,Lappeenranta ,68,88
+54410 Ylämaa Keskus   ,Lappeenranta ,474,478
+54430 Hujakkala   ,Lappeenranta ,78,81
+54460 Ylijärvi   ,Lappeenranta ,44,47
+54490 Ahomäki   ,Miehikk?l? ,82,97
+54500 Taavetti-Somerharju   ,Luum?ki ,1403,1366
+54510 Uro   ,Luum?ki ,194,232
+54530 Luumäki   ,Luum?ki ,596,619
+54550 Suo-Anttila   ,Luum?ki ,37,48
+54580 Somerharju   ,Luum?ki ,18,20
+54590 Kaitjärvi   ,Luum?ki ,64,68
+54710 Lemi Keskus   ,Lemi ,648,682
+54720 Laksiainen   ,Lemi ,70,89
+54750 Välijoki   ,Savitaipale ,130,152
+54770 Heituinlahti   ,Savitaipale ,241,291
+54800 Savitaipale Keskus   ,Savitaipale ,1364,1257
+54820 Kotimäki   ,Lemi ,113,144
+54850 Kuukanniemi   ,Lemi ,536,593
+54915 Saimaanharju-Kyläniemi   ,Taipalsaari ,919,906
+54920 Taipalsaari   ,Taipalsaari ,737,793
+54930 Levänen   ,Taipalsaari ,147,170
+54940 Solkei   ,Taipalsaari ,53,71
+54950 Pettilä   ,Savitaipale ,46,53
+54960 Vehkataipale   ,Taipalsaari ,293,295
+55100 Imatra Keskus   ,Imatra ,5322,4923
+55120 Mansikkala-Tuulikallio   ,Imatra ,1732,1456
+55300 Rauha-Tiuruniemi   ,Lappeenranta ,493,482
+55320 Rauha   ,Lappeenranta ,279,306
+55330 Tiuruniemi   ,Lappeenranta ,26,40
+55400 Tainionkoski-Mustalampi   ,Imatra ,672,706
+55420 Karhumäki-Karhukallio   ,Imatra ,1019,1065
+55510 Sotkulampi-Linnasuo   ,Imatra ,708,620
+55610 Rajapatsas-Teppanala   ,Imatra ,1498,1423
+55700 Vintteri-Virasoja   ,Imatra ,692,738
+55800 Vuoksenniska-Saarlampi   ,Imatra ,2169,2055
+55910 Rautio-Kurkvuori   ,Imatra ,814,850
+56100 Ruokolahti Keskus   ,Ruokolahti ,1144,983
+56120 Salosaari   ,Ruokolahti ,410,412
+56140 Äitsaari   ,Ruokolahti ,111,136
+56210 Virmutjoki   ,Ruokolahti ,217,214
+56310 Syyspohja   ,Ruokolahti ,93,104
+56330 Utula   ,Ruokolahti ,15,20
+56350 Kyläniemi   ,Taipalsaari ,0,0
+56410 Kaiturinpää   ,Ruokolahti ,71,77
+56440 Pohja-Lankila   ,Ruokolahti ,112,114
+56510 Puntala   ,Ruokolahti ,205,215
+56550 Niska-Pietilä   ,Rautj?rvi ,59,73
+56610 Rautjärvi   ,Rautj?rvi ,281,324
+56640 Purnujärvi   ,Rautj?rvi ,49,54
+56710 Miettilä   ,Rautj?rvi ,63,65
+56730 Laikko   ,Rautj?rvi ,143,172
+56800 Simpele   ,Rautj?rvi ,1254,1202
+57100 Heikinpohja-Piispanmäki   ,Savonlinna ,2288,1573
+57120 Savonlinna   ,Savonlinna ,0,0
+57130 Savonlinna Keskus   ,Savonlinna ,1197,775
+57170 Sortteerinlahti-Talvisalo   ,Savonlinna ,1170,849
+57200 Miekonniemi-Venäjänniemi   ,Savonlinna ,1274,1253
+57210 Nojanmaa   ,Savonlinna ,1368,1319
+57220 Haka-alue-Viuhonmäki   ,Savonlinna ,765,774
+57230 Inkerinkylä   ,Savonlinna ,1563,1742
+57310 Rinkilä   ,Savonlinna ,355,354
+57510 Laitaatsilta   ,Savonlinna ,261,240
+57600 Poukkusilta-Pihlajaniemi   ,Savonlinna ,976,963
+57710 Kellarpelto-Rantakoivikko   ,Savonlinna ,1486,1476
+57810 Aholahti   ,Savonlinna ,153,174
+58130 Oravi   ,Savonlinna ,71,75
+58140 Ahvensalmi   ,Savonlinna ,40,42
+58150 Makkola   ,Savonlinna ,96,126
+58160 Karvila   ,Enonkoski ,75,100
+58170 Simanala   ,Enonkoski ,120,147
+58175 Enonkoski Keskus   ,Enonkoski ,450,438
+58180 Ihamaniemi   ,Enonkoski ,67,84
+58200 Kerimäki Keskus   ,Savonlinna ,1662,1655
+58220 Louhi   ,Savonlinna ,179,234
+58260 Kumpuranta   ,Savonlinna ,85,97
+58300 Savonranta Keskus   ,Savonlinna ,338,366
+58320 Raikuu   ,Savonlinna ,73,99
+58350 Villala   ,Kitee ,89,121
+58360 Säimen   ,Savonlinna ,100,112
+58390 Rönkönvaara   ,Savonlinna ,24,36
+58410 Haapakallio   ,Savonlinna ,303,327
+58420 Silvola   ,Savonlinna ,146,185
+58430 Kulennoinen   ,Savonlinna ,248,265
+58450 Punkaharju   ,Savonlinna ,214,210
+58500 Punkasalmi   ,Savonlinna ,841,771
+58520 Hiukkajoki   ,Savonlinna ,137,169
+58550 Putikko   ,Savonlinna ,196,231
+58570 Ruhvana   ,Savonlinna ,31,41
+58580 Vuoriniemi   ,Savonlinna ,41,53
+58610 Telakanava   ,Sulkava ,72,75
+58620 Lohilahti   ,Sulkava ,121,146
+58650 Kiviapaja   ,Savonlinna ,44,59
+58680 Piojärvi   ,Savonlinna ,16,23
+58690 Ala-Särkilahti-Piojärvi   ,Savonlinna ,42,52
+58700 Sulkava Keskus   ,Sulkava ,1105,1054
+58720 Kaartilankoski   ,Sulkava ,139,162
+58770 Pihlajalahti   ,Savonlinna ,104,126
+58810 Kallislahti   ,Savonlinna ,163,164
+58830 Parkumäki   ,Rantasalmi ,155,164
+58850 Hiltula   ,Rantasalmi ,47,58
+58900 Rantasalmi Keskus   ,Rantasalmi ,1258,1189
+58910 Rantasalmi Asemanseutu   ,Rantasalmi ,88,100
+58920 Kolkontaipale   ,Rantasalmi ,139,182
+58940 Tuusmäki   ,Rantasalmi ,103,134
+59100 Parikkala Keskus   ,Parikkala ,1147,1083
+59130 Koitsanlahti   ,Parikkala ,90,92
+59210 Melkoniemi   ,Parikkala ,66,77
+59310 Särkisalmi   ,Parikkala ,457,462
+59320 Haapaoja   ,Parikkala ,44,46
+59410 Kirjavala   ,Parikkala ,196,226
+59510 Maironiemi   ,Parikkala ,211,204
+59520 Saari   ,Parikkala ,58,72
+59530 Mikkolanniemi   ,Parikkala ,39,45
+59610 Tarnala   ,Parikkala ,92,86
+59710 Kummunkylä   ,Parikkala ,53,57
+59720 Niukkala   ,Parikkala ,69,78
+59730 Uukuniemi   ,Parikkala ,48,66
+59800 Kesälahti Keskus   ,Kitee ,835,768
+59810 Suurikylä   ,Kitee ,42,39
+59820 Purujärvi-Rajavaara   ,Kitee ,72,80
+60100 Seinäjoki Keskus   ,Sein?joki ,5528,4331
+60120 Pohja   ,Sein?joki ,1367,1225
+60150 Kasperi   ,Sein?joki ,2348,2255
+60200 Törnävä   ,Sein?joki ,5586,5521
+60220 Huhtala   ,Sein?joki ,1070,822
+60280 Eskoon Keskuslaitosalue   ,Sein?joki ,0,0
+60320 Alakylä-Jouppi   ,Sein?joki ,3539,3405
+60420 Impivaara   ,Sein?joki ,604,628
+60450 Munakka   ,Ilmajoki ,215,226
+60510 Hyllykallio   ,Sein?joki ,4194,4083
+60550 Nurmo Keskus   ,Sein?joki ,2267,2292
+60560 Halkosaari   ,Sein?joki ,347,363
+60640 Kurjenneva   ,Sein?joki ,321,362
+60720 Tuomikylä   ,Ilmajoki ,1016,1044
+60760 Pohjanluoma   ,Ilmajoki ,499,526
+60800 Ilmajoki Keskus   ,Ilmajoki ,2940,2885
+61100 Peräseinäjoki Keskus   ,Sein?joki ,1015,985
+61110 Vuolle   ,Sein?joki ,96,96
+61120 Louko   ,Sein?joki ,336,366
+61140 Pasto   ,Sein?joki ,65,69
+61150 Sydänmaa   ,Alavus ,39,39
+61160 Koura   ,Sein?joki ,283,305
+61170 Sääskiniemi   ,Alavus ,136,154
+61180 Haapaluoma   ,Sein?joki ,107,117
+61220 Myllysalo   ,Kurikka ,111,131
+61230 Luopa   ,Kurikka ,360,369
+61250 Jalasto   ,Kurikka ,130,154
+61270 Luopajärvi   ,Kurikka ,300,332
+61280 Jokipii   ,Kurikka ,268,284
+61290 Taivalmaa   ,Kurikka ,49,58
+61300 Kurikka Keskus   ,Kurikka ,3466,3240
+61310 Panttila   ,Kurikka ,352,399
+61330 Koskenkorva   ,Ilmajoki ,1007,1079
+61340 Nopankylä   ,Ilmajoki ,132,151
+61350 Huissi   ,Ilmajoki ,171,205
+61360 Mieto   ,Kurikka ,517,553
+61370 Lohiluoma   ,Kurikka ,160,185
+61380 Polvenkylä   ,Kurikka ,76,103
+61400 Ylistaro Keskus   ,Sein?joki ,1074,1005
+61410 Ylistaro Asemanseutu   ,Sein?joki ,377,440
+61430 Isorehto   ,Sein?joki ,177,219
+61440 Untamala   ,Sein?joki ,81,105
+61450 Kylänpää   ,Sein?joki ,293,305
+61460 Hanhikoski   ,Sein?joki ,113,121
+61470 Kitinoja   ,Sein?joki ,219,209
+61500 Isokyrö Keskus   ,Isokyr? ,1408,1333
+61520 Lehmäjoki   ,Isokyr? ,105,133
+61550 Orismala   ,Isokyr? ,314,351
+61560 Orisberg   ,Isokyr? ,28,34
+61600 Jalasjärvi Keskus   ,Kurikka ,2091,1912
+61630 Hirvijärvi   ,Kurikka ,138,155
+61640 Ala-Valli   ,Kurikka ,85,108
+61650 Kalakoski   ,Sein?joki ,171,198
+61680 Mantila   ,Kurikka ,125,123
+61710 Pentinmäki   ,Kurikka ,135,146
+61720 Koskue   ,Kurikka ,263,304
+61730 Yli-Valli   ,Kurikka ,108,134
+61760 Ilvesjoki   ,Kurikka ,168,180
+61800 Kauhajoki Keskus   ,Kauhajoki ,4310,4006
+61810 Luomankylä   ,Kauhajoki ,131,168
+61820 Kainasto   ,Kauhajoki ,292,314
+61840 Norinkylä   ,Teuva ,146,155
+61850 Kauhajoki Asemanseutu   ,Kauhajoki ,1111,1140
+61860 Harja   ,Kauhajoki ,111,110
+61880 Ikkeläjärvi   ,Kauhajoki ,81,110
+61910 Nummijärvi   ,Kauhajoki ,125,162
+61920 Nummikoski   ,Kauhajoki ,35,37
+61940 Hyyppä   ,Kauhajoki ,143,162
+61950 Juonikylä   ,Kauhajoki ,73,87
+61960 Kyrönlatva   ,Kauhajoki ,68,74
+61980 Päntäne   ,Kauhajoki ,414,520
+62100 Lapua Keskus   ,Lapua ,5589,5288
+62130 Hellanmaa   ,Lapua ,277,299
+62150 Rintakangas   ,Kauhava ,66,80
+62160 Karhunkylä   ,Lapua ,297,322
+62165 Tiisteenjoki   ,Lapua ,167,187
+62170 Lakaluoma   ,Lapua ,129,150
+62175 Ylikylä-Mäenpää   ,Lapua ,64,75
+62185 Mäki-Paavola   ,Lapua ,69,80
+62190 Ruha   ,Lapua ,303,313
+62200 Kauhava Keskus   ,Kauhava ,2959,2839
+62220 Pernaa   ,Kauhava ,223,258
+62230 Jylhä   ,Kauhava ,187,208
+62240 Huhmarkoski   ,Kauhava ,268,294
+62260 Hirvijoki   ,Kauhava ,94,94
+62280 Mustamaa   ,Lapua ,60,68
+62290 Hirvikylä   ,Lapua ,143,136
+62295 Kauhajärvi   ,Lapua ,204,223
+62300 Härmä   ,Kauhava ,1242,1221
+62310 Voltti   ,Kauhava ,564,598
+62340 Kuoppa-Vakkuri   ,Kauhava ,53,50
+62350 Ekola   ,Kauhava ,55,61
+62370 Kangasto   ,Kauhava ,111,106
+62375 Ylihärmä Keskus-Vesiluoma   ,Kauhava ,1337,1316
+62380 Kosolankylä   ,Kauhava ,109,112
+62395 Petterinmäki   ,V?yri ,56,72
+62410 Rintala   ,Kauhava ,165,173
+62420 Kortesjärvi Keskus   ,Kauhava ,523,514
+62430 Peltotupa   ,Kauhava ,69,75
+62435 Pirttinen   ,Kauhava ,57,65
+62440 Perkiömäki   ,Kauhava ,45,64
+62470 Purmojärvi   ,Kauhava ,201,233
+62500 Evijärvi Keskus   ,Evij?rvi ,750,783
+62510 Kuoppa-aho   ,Evij?rvi ,167,173
+62520 Kautiainen   ,Evij?rvi ,68,84
+62540 Vasikka-aho   ,Evij?rvi ,140,155
+62570 Särkilä   ,Evij?rvi ,103,121
+62600 Lappajärvi Keskus   ,Lappaj?rvi ,947,904
+62610 Tarvola   ,Lappaj?rvi ,68,60
+62620 Ala-Seppä   ,Lappaj?rvi ,101,89
+62630 Karvala   ,Lappaj?rvi ,158,167
+62640 Savonkylä   ,Lappaj?rvi ,64,70
+62660 Itäkylä   ,Lappaj?rvi ,296,300
+62710 Kurejoki   ,Alaj?rvi ,355,431
+62720 Sissala   ,Alaj?rvi ,169,161
+62730 Haukkala   ,Alaj?rvi ,123,114
+62740 Koskenvarsi   ,Alaj?rvi ,100,118
+62750 Saukonkylä   ,Alaj?rvi ,92,106
+62760 Menkijärvi   ,Alaj?rvi ,115,128
+62800 Vimpeli Keskus   ,Vimpeli ,1200,1191
+62810 Savonjoki   ,Vimpeli ,52,66
+62830 Luoma-Aho   ,Alaj?rvi ,152,163
+62840 Lakaniemi-Pokela   ,Vimpeli ,25,27
+62860 Sahi   ,Vimpeli ,94,104
+62870 Vinni   ,Vimpeli ,26,31
+62880 Sääksvesi-Vinni   ,Vimpeli ,126,158
+62900 Alajärvi Keskus   ,Alaj?rvi ,2447,2277
+62920 Levijoki   ,Alaj?rvi ,39,39
+62940 Hoisko   ,Alaj?rvi ,275,304
+62950 Paalijärvi   ,Alaj?rvi ,207,240
+62990 Möksy   ,Alaj?rvi ,66,83
+63100 Kuortane Keskus   ,Kuortane ,796,736
+63120 Leppälänkylä   ,Kuortane ,161,194
+63130 Mäyry   ,Kuortane ,332,374
+63150 Ruona   ,Kuortane ,199,219
+63160 Salmi   ,Kuortane ,62,82
+63210 Niinimaa   ,Alavus ,53,55
+63230 Lentilä   ,Kuortane ,146,174
+63250 Rantala   ,Kuortane ,48,51
+63300 Alavus Keskus   ,Alavus ,2525,2330
+63320 Kattelus   ,Alavus ,36,44
+63330 Pahajoki   ,Alavus ,77,82
+63340 Sapsalampi   ,Alavus ,95,108
+63350 Sulkavankylä   ,Alavus ,115,116
+63355 Seinäjärvi   ,Alavus ,58,69
+63360 Kuivaskylä   ,Alavus ,122,156
+63370 Taipalus   ,Alavus ,247,294
+63400 Alavus Asemanseutu   ,Alavus ,617,684
+63410 Rantatöysä   ,Alavus ,215,247
+63430 Kätkänjoki   ,Alavus ,71,88
+63450 Löyä   ,Kuortane ,30,38
+63500 Lehtimäki Keskus   ,Alaj?rvi ,478,465
+63510 Lehtimäki Kirkonkylä   ,Alaj?rvi ,138,144
+63530 Länsikylä   ,Alaj?rvi ,84,91
+63540 Hernesmaa   ,Alaj?rvi ,103,108
+63600 Töysä Keskus   ,Alavus ,692,637
+63610 Tuuri   ,Alavus ,553,567
+63640 Ritola   ,Alavus ,143,196
+63660 Ähtärinranta   ,?ht?ri ,87,98
+63680 Hakojärvi   ,Alavus ,169,173
+63700 Ähtäri Keskus   ,?ht?ri ,2233,2177
+63770 Peränne   ,?ht?ri ,107,100
+63780 Alastaipale   ,?ht?ri ,75,84
+63800 Soini Keskus   ,Soini ,878,897
+63830 Keisala   ,Soini ,42,36
+63880 Kukonkylä   ,Soini ,88,85
+63890 Hautakylä   ,Soini ,60,68
+63900 Myllymäki-Vehunkylä   ,?ht?ri ,235,307
+63910 Inhan Tehtaat   ,?ht?ri ,89,117
+63920 Inha   ,?ht?ri ,182,169
+63950 Vehunkylä   ,?ht?ri ,22,34
+64100 Kristiinankaupunki Keskus   ,Kristiinankaupunki,1545,1445
+64140 Tiukka   ,Kristiinankaupunki ,249,281
+64200 Närpiö Keskus   ,N?rpi? ,1467,1367
+64210 Kalax   ,N?rpi? ,222,207
+64220 Yttermark   ,N?rpi? ,429,516
+64230 Närpiön Asemanseutu   ,N?rpi? ,483,494
+64240 Böle   ,N?rpi? ,118,128
+64250 Pjelax   ,N?rpi? ,160,199
+64260 Kaskinen   ,N?rpi? ,674,672
+64300 Lapväärtti   ,Kristiinankaupunki ,862,872
+64320 Dagsmark   ,Kristiinankaupunki ,238,234
+64350 Karijoki Keskus   ,Karijoki ,540,581
+64370 Myrkky   ,Karijoki ,136,145
+64440 Metsälä-Kallträsk   ,Kristiinankaupunki ,99,114
+64450 Kallträsk   ,Kristiinankaupunki ,29,28
+64460 Härkmeri   ,Kristiinankaupunki ,162,184
+64480 Skaftung   ,Kristiinankaupunki ,118,134
+64490 Siipyy   ,Kristiinankaupunki ,88,88
+64510 Nämpnäs   ,N?rpi? ,185,224
+64530 Norrnäs   ,N?rpi? ,132,146
+64550 Rangsby   ,N?rpi? ,134,135
+64610 Övermark   ,N?rpi? ,576,584
+64700 Teuva Keskus   ,Teuva ,1753,1664
+64720 Perälä   ,Teuva ,291,343
+64740 Horo   ,Teuva ,129,140
+64760 Peltola   ,Teuva ,154,190
+64770 Äystö   ,Teuva ,245,280
+64810 Vanhakylä   ,Isojoki ,111,126
+64820 Kärjenkoski   ,Isojoki ,80,111
+64830 Villamo   ,Isojoki ,79,103
+64840 Heikkilänjoki   ,Isojoki ,22,27
+64850 Möykky   ,Isojoki ,56,72
+64900 Isojoki Keskus   ,Isojoki ,570,571
+64930 Kodesjärvi   ,Isojoki ,89,110
+65100 Vaasa Keskus   ,Vaasa ,9548,8266
+65130 Hietalahti   ,Vaasa ,0,0
+65170 Vaskiluoto   ,Vaasa ,168,190
+65200 Palosaari   ,Vaasa ,2774,3087
+65230 Vetokannas   ,Vaasa ,2876,2926
+65280 Gerby   ,Vaasa ,3454,3652
+65300 Asevelikylä   ,Vaasa ,2488,2528
+65320 Huutoniemi   ,Vaasa ,3182,3320
+65350 Suvilahti   ,Vaasa ,1957,1922
+65370 Ristinummi   ,Vaasa ,2151,2365
+65380 Vanha Vaasa   ,Vaasa ,1676,1683
+65410 Sundom   ,Vaasa ,1215,1251
+65450 Sulva   ,Mustasaari ,999,971
+65460 Tölby-Rimal   ,Mustasaari ,157,175
+65470 Rimal   ,Mustasaari ,23,29
+65480 Vikby   ,Mustasaari ,140,133
+65520 Helsingby   ,Mustasaari ,709,771
+65610 Mustasaari Keskus   ,Mustasaari ,2988,2887
+65630 Karperö   ,Mustasaari ,666,660
+65650 Koskö   ,Mustasaari ,133,146
+65710 Singsby   ,Mustasaari ,295,322
+65730 Jungsund   ,Mustasaari ,217,218
+65760 Iskmo   ,Mustasaari ,146,151
+65800 Raippaluoto   ,Mustasaari ,427,429
+65870 Björköby   ,Mustasaari ,173,181
+65920 Norra Vallgrund-Söderudden   ,Mustasaari ,154,181
+65930 Södra Vallgrund   ,Mustasaari ,183,181
+65970 Söderudden   ,Mustasaari ,100,106
+66100 Maalahti   ,Maalahti ,1007,990
+66140 Övermalax   ,Maalahti ,751,815
+66160 Långåminne   ,Maalahti ,146,171
+66200 Korsnäs Keskus   ,Korsn?s ,432,424
+66210 Moikipää   ,Korsn?s ,271,294
+66220 Bergö   ,Maalahti ,204,263
+66230 Korsbäck   ,Korsn?s ,43,43
+66240 Petolahti   ,Maalahti ,538,518
+66260 Svarvar   ,Maalahti ,45,64
+66270 Pirttikylä-Sorvari   ,N?rpi? ,436,464
+66280 Taklax   ,Korsn?s ,181,191
+66290 Harrström   ,Korsn?s ,151,187
+66295 Töjby   ,N?rpi? ,188,184
+66300 Jurva Keskus   ,Kurikka ,1100,1077
+66320 Niemenkylä   ,Kurikka ,164,167
+66330 Hakko   ,Kurikka ,126,155
+66340 Sarvijoki   ,Kurikka ,176,170
+66350 Tainus   ,Kurikka ,64,77
+66360 Kesti   ,Kurikka ,187,209
+66370 Närvijoki   ,Kurikka ,136,150
+66400 Laihia Keskus   ,Laihia ,3054,3016
+66420 Ruto   ,Laihia ,180,179
+66430 Vedenoja   ,Vaasa ,83,88
+66440 Tervajoki   ,Isokyr? ,962,1041
+66450 Jakkula   ,Laihia ,413,472
+66460 Haapala   ,Laihia ,171,182
+66470 Jukaja-Jokisalo   ,Laihia ,164,171
+66500 Vähäkyrö Keskus   ,Vaasa ,1131,1196
+66510 Merikaarto   ,Vaasa ,607,672
+66520 Veikkaala   ,Mustasaari ,280,285
+66530 Koivulahti   ,Mustasaari ,895,927
+66540 Petsmo   ,Mustasaari ,273,309
+66550 Västerhankmo   ,Mustasaari ,155,167
+66560 Österhankmo   ,Mustasaari ,113,122
+66580 Kuni   ,Mustasaari ,194,198
+66590 Vassor   ,Mustasaari ,79,85
+66600 Vöyri Keskus   ,V?yri ,1401,1398
+66640 Maksamaa   ,V?yri ,518,558
+66660 Bertby   ,V?yri ,77,70
+66680 Kaurajärvi   ,V?yri ,43,49
+66710 Kaitsor   ,V?yri ,127,136
+66730 Oxkangar   ,V?yri ,29,34
+66800 Oravainen Keskus   ,V?yri ,506,509
+66810 Kimo   ,V?yri ,150,178
+66820 Komossa   ,V?yri ,96,129
+66830 Oravaisten Tehdas   ,V?yri ,224,251
+66840 Pensala   ,Uusikaarlepyy ,167,189
+66850 Jepua   ,Uusikaarlepyy ,444,515
+66900 Uusikaarlepyy Keskus   ,Uusikaarlepyy ,1994,2045
+66910 Soklot   ,Uusikaarlepyy ,217,246
+66930 Kovjoki   ,Uusikaarlepyy ,118,129
+66950 Munsala   ,Uusikaarlepyy ,446,489
+66970 Hirvlax   ,Uusikaarlepyy ,233,246
+66980 Monå   ,Uusikaarlepyy ,71,63
+66999 Kaukaluoto   ,Mustasaari ,27,35
+67100 Kokkola Keskus   ,Kokkola ,5417,4746
+67200 Kiviniitty-Tullimäki   ,Kokkola ,2371,2056
+67300 Halkokari   ,Kokkola ,1990,1905
+67400 Rytimäki   ,Kokkola ,2332,2355
+67410 Vitsari   ,Kokkola ,384,426
+67500 Sokoja   ,Kokkola ,556,584
+67600 Linnusperä-Kaustari   ,Kokkola ,1509,1489
+67700 Kirkonmäki-Isokylä   ,Kokkola ,2537,2493
+67800 Koivuhaka   ,Kokkola ,1857,1905
+67900 Ykspihjala   ,Kokkola ,672,729
+68100 Himanka Keskus   ,Kalajoki ,1259,1268
+68150 Hillilä   ,Kalajoki ,149,158
+68210 Marinkainen   ,Kokkola ,463,459
+68220 Karhi   ,Kokkola ,60,69
+68230 Lohtaja Keskus   ,Kokkola ,567,597
+68240 Ala-Viirre   ,Kokkola ,176,185
+68300 Kälviä Keskus   ,Kokkola ,1927,1959
+68320 Ruotsalo   ,Kokkola ,367,422
+68370 Ullava Keskus   ,Kokkola ,196,200
+68380 Yli-Ullava   ,Kokkola ,166,171
+68390 Rahkonen   ,Kokkola ,71,78
+68410 Alaveteli   ,Kruunupyy ,787,841
+68500 Kruunupyy Keskus   ,Kruunupyy ,1471,1446
+68530 Lepplax   ,Peders?ren kunta ,300,324
+68550 Öja   ,Kokkola ,351,382
+68555 Bosund   ,Luoto ,497,558
+68560 Eugmo   ,Luoto ,459,507
+68570 Luoto   ,Luoto ,1106,1134
+68580 Furuholmen   ,Luoto ,419,434
+68600 Pietarsaari Keskus   ,Pietarsaari ,5947,5754
+68620 Skutnäs-Västermalm   ,Pietarsaari ,2423,2425
+68630 Kyrkostrand   ,Pietarsaari ,1246,1305
+68660 Östermalm-Björnholmen   ,Pietarsaari ,1087,1119
+68690 Sundby   ,Peders?ren kunta ,183,188
+68700 Teerijärvi   ,Kruunupyy ,913,917
+68750 Småbönders   ,Kruunupyy ,133,139
+68800 Kolppi   ,Peders?ren kunta ,590,637
+68810 Ytteresse   ,Peders?ren kunta ,756,838
+68820 Ähtävä   ,Peders?ren kunta ,545,572
+68830 Bäckby   ,Peders?ren kunta ,70,83
+68840 Nederlappfors   ,Peders?ren kunta ,166,163
+68870 Edsevö   ,Peders?ren kunta ,256,263
+68910 Pännäinen   ,Peders?ren kunta ,629,663
+68920 Forsby   ,Peders?ren kunta ,224,239
+68930 Purmo   ,Peders?ren kunta ,335,350
+68940 Lillby   ,Peders?ren kunta ,238,259
+68970 Överpurmo   ,Peders?ren kunta ,106,120
+68999 Rita   ,Kokkola ,38,36
+69100 Kannus Keskus   ,Kannus ,2557,2500
+69150 Eskola   ,Kannus ,201,241
+69170 Yli-Kannus   ,Kannus ,151,131
+69300 Toholampi Keskus   ,Toholampi ,1093,1099
+69310 Laitala   ,Toholampi ,167,196
+69330 Määttälä   ,Toholampi ,69,70
+69340 Purontaka   ,Toholampi ,81,81
+69410 Sykäräinen   ,Toholampi ,228,234
+69420 Syri   ,Lestij?rvi ,32,28
+69440 Lestijärvi Keskus   ,Lestij?rvi ,238,241
+69450 Yli-Lesti   ,Lestij?rvi ,106,113
+69510 Halsua Keskus-Marjusaari   ,Halsua ,410,425
+69550 Kanala   ,Halsua ,40,54
+69570 Karvonen   ,Halsua ,143,150
+69600 Kaustinen Keskus   ,Kaustinen ,1989,2029
+69660 Köyhäjoki   ,Kaustinen ,129,136
+69700 Veteli Keskus   ,Veteli ,685,693
+69730 Tunkkari   ,Veteli ,257,270
+69750 Sillanpää   ,Veteli ,87,96
+69820 Räyrinki   ,Veteli ,327,343
+69830 Pulkkinen   ,Veteli ,124,149
+69850 Patana   ,Veteli ,104,119
+69910 Kivikangas   ,Perho ,25,27
+69920 Oksakoski-Kivikangas   ,Perho ,265,276
+69950 Perho Keskus-Salamajärvi   ,Perho ,670,626
+69970 Salamajärvi   ,Perho ,13,22
+69980 Möttönen   ,Perho ,484,524
+70100 Kuopio Keskus   ,Kuopio ,6728,5199
+70110 Etu-Niirala   ,Kuopio ,2098,1596
+70150 Neulamäki   ,Kuopio ,2568,2669
+70200 Puijonlaakso   ,Kuopio ,3658,2954
+70210 Kuopion Keskussairaala-alue   ,Kuopio ,51,20
+70240 Niuvaniemen Sairaala-alue   ,Kuopio ,41,76
+70260 Julkula   ,Kuopio ,1277,1222
+70280 Länsi-Puijo   ,Kuopio ,1109,1053
+70300 Linnanpelto   ,Kuopio ,585,505
+70340 Inkilänmäki   ,Kuopio ,1779,1754
+70400 Kettulanlahti   ,Kuopio ,460,449
+70420 Päiväranta   ,Kuopio ,1266,1216
+70460 Saarijärvi   ,Kuopio ,2041,1929
+70500 Männistö   ,Kuopio ,3610,3182
+70600 Niirala-Huuhanmäki   ,Kuopio ,1743,1546
+70620 Haapaniemi   ,Kuopio ,1164,1135
+70700 Särkiniemi   ,Kuopio ,2070,2017
+70780 Jynkkä   ,Kuopio ,2508,2433
+70800 Pitkälahti   ,Kuopio ,1652,1714
+70820 Litmanen   ,Kuopio ,6618,6462
+70840 Jynkänmäki   ,Kuopio ,3117,3053
+70870 Hiltulanlahti   ,Kuopio ,1262,1276
+70900 Toivala   ,Siilinj?rvi ,1456,1514
+70910 Vuorela   ,Siilinj?rvi ,1561,1460
+70940 Jännevirta   ,Kuopio ,272,300
+71130 Kortejoki   ,Kuopio ,299,306
+71150 Vartiala   ,Kuopio ,294,344
+71160 Riistavesi   ,Kuopio ,751,777
+71170 Laukka-aho   ,Tuusniemi ,55,55
+71200 Tuusniemi Keskus   ,Tuusniemi ,813,796
+71210 Tuusjärvi   ,Tuusniemi ,105,128
+71240 Paakkila   ,Tuusniemi ,112,115
+71260 Juurikkamäki   ,Tuusniemi ,62,87
+71280 Kosula   ,Tuusniemi ,104,129
+71310 Vehmersalmi Keskus   ,Kuopio ,610,623
+71330 Räsälä   ,Kuopio ,167,186
+71360 Litmaniemi   ,Kuopio ,86,99
+71380 Mustinlahti   ,Kuopio ,70,82
+71460 Paukarlahti   ,Lepp?virta ,235,244
+71470 Oravikoski   ,Lepp?virta ,208,228
+71480 Kurkimäki   ,Kuopio ,539,581
+71490 Airaksela   ,Kuopio ,128,143
+71520 Kaislastenlahti   ,Kuopio ,161,173
+71570 Syvänniemi   ,Kuopio ,631,693
+71610 Salonkulma   ,Kuopio ,0,0
+71640 Talluskylä   ,Tervo ,87,124
+71650 Hirvilahti-Salonkulma   ,Kuopio ,201,254
+71660 Leinolanlahti   ,Kuopio ,44,61
+71670 Kurolanlahti   ,Kuopio ,39,52
+71680 Pulkonkoski-Saarinen   ,Kuopio ,104,113
+71690 Varpasmaa   ,Kuopio ,0,0
+71720 Käärmelahti   ,Kuopio ,311,332
+71730 Kinnulanlahti   ,Kuopio ,300,309
+71740 Tavinsalmi   ,Kuopio ,42,47
+71745 Haatala   ,Kuopio ,16,25
+71750 Maaninka Keskus   ,Kuopio ,583,529
+71760 Ahkionlahti-Vianta   ,Kuopio ,140,142
+71775 Tuovilanlahti-Haatala   ,Kuopio ,191,236
+71800 Siilinjärvi Keskus   ,Siilinj?rvi ,5411,5235
+71820 Pöljä   ,Siilinj?rvi ,402,443
+71840 Kuuslahti   ,Siilinj?rvi ,253,297
+71850 Leppäkaarre   ,Siilinj?rvi ,1063,1034
+71870 Harjamäki   ,Siilinj?rvi ,216,236
+71890 Hamula   ,Siilinj?rvi ,451,504
+71910 Alapitkä   ,Lapinlahti ,396,430
+71920 Pajujärvi   ,Lapinlahti ,196,212
+71950 Lammasaho   ,Kuopio ,56,60
+71960 Lukkarila   ,Lapinlahti ,103,126
+72100 Karttula Keskus   ,Kuopio ,812,877
+72140 Itä-Karttula-Riuttasenpää   ,Kuopio ,16,27
+72210 Tervo Keskus-Eliaksela   ,Tervo ,589,575
+72220 Eliaksela   ,Tervo ,25,41
+72300 Vesanto Keskus   ,Vesanto ,653,648
+72310 Niinivesi   ,Vesanto ,118,129
+72330 Tiitilänkylä   ,Vesanto ,51,67
+72350 Pienola   ,Vesanto ,158,137
+72360 Närhilä   ,Vesanto ,47,52
+72380 Horontaipale   ,Vesanto ,54,64
+72400 Pielavesi Keskus-Jylänki   ,Pielavesi ,1414,1378
+72430 Kumpula   ,Pielavesi ,113,145
+72490 Saarinen   ,Kuopio ,0,0
+72510 Jokijärvi   ,Pielavesi ,40,58
+72530 Säviäntaipale   ,Pielavesi ,100,116
+72550 Säviä   ,Pielavesi ,136,167
+72570 Vuorikylä   ,Pielavesi ,53,61
+72600 Keitele Keskus   ,Keitele ,1005,1012
+72630 Kuusela-Rajala   ,Keitele ,44,52
+72710 Vaaraslahti   ,Pielavesi ,214,235
+72740 Laukkala   ,Pielavesi ,64,73
+72810 Jylhänkylä   ,Pielavesi ,63,90
+72840 Saarela   ,Pielavesi ,44,57
+72930 Tossavanlahti   ,Keitele ,48,62
+72950 Porttila   ,Keitele ,40,42
+72980 Petäjäkylä   ,Keitele ,29,44
+73100 Lapinlahti Keskus   ,Lapinlahti ,2593,2407
+73110 Mäntylahti-Karvasalmi   ,Lapinlahti ,121,159
+73120 Nerkoo-Horsmanmäki   ,Lapinlahti ,262,294
+73200 Varpaisjärvi Keskus   ,Lapinlahti ,883,918
+73230 Syvärinpää   ,Lapinlahti ,155,189
+73250 Korpijärvi   ,Lapinlahti ,94,111
+73300 Nilsiä Keskus   ,Kuopio ,1648,1459
+73310 Tahkovuori   ,Kuopio ,53,61
+73320 Reittiö   ,Kuopio ,578,685
+73350 Haluna   ,Kuopio ,203,239
+73360 Pajulahti   ,Kuopio ,313,324
+73410 Pieksänkoski   ,Kuopio ,109,134
+73460 Muuruvesi   ,Kuopio ,341,373
+73470 Västinniemi   ,Kuopio ,138,167
+73500 Juankoski Keskus   ,Kuopio ,1436,1404
+73600 Kaavi Keskus   ,Kaavi ,1109,1078
+73620 Kortteinen-Rasilampi   ,Kaavi ,112,137
+73640 Sivakkavaara   ,Kaavi ,49,60
+73645 Niinivaara-Onnivaara   ,Kaavi ,46,48
+73670 Luikonlahti   ,Kaavi ,241,252
+73710 Viitaniemi   ,Kuopio ,77,86
+73730 Losomäki   ,Kuopio ,32,39
+73770 Säyneinen-Ala-Siikajärvi   ,Kuopio ,245,286
+73810 Palonurmi-Aholansaari   ,Kuopio ,145,166
+73830 Keski-Siikajärvi   ,Kuopio ,115,131
+73850 Ala-Luosta-Riitasalo   ,Rautavaara ,40,59
+73860 Pykälikkö   ,Rautavaara ,0,0
+73900 Rautavaara Keskus   ,Rautavaara ,619,731
+73970 Riitasalo   ,Rautavaara ,0,0
+73990 Kangaslahti   ,Rautavaara ,70,80
+"74100 Iisalmi Keskus, Eteläinen   ",Iisalmi ,2201,1666
+74120 Iisalmi Keskus Pohjoinen   ,Iisalmi ,3371,3126
+74130 Kihmula   ,Iisalmi ,2451,2414
+74140 Ritoniemi   ,Iisalmi ,552,631
+74150 Laidunmäki   ,Iisalmi ,479,563
+74160 Koljonvirta   ,Iisalmi ,505,575
+74170 Soinlahti   ,Iisalmi ,454,472
+74200 Vieremä Keskus   ,Vierem? ,1153,1182
+74230 Salahmi   ,Vierem? ,199,223
+74240 Marttisenjärvi   ,Vierem? ,72,92
+74250 Nissilä   ,Vierem? ,46,60
+74270 Kauppilanmäki   ,Vierem? ,231,244
+74300 Sonkajärvi Keskus   ,Sonkaj?rvi ,1367,1434
+74340 Sukeva-Kainuunmäki   ,Sonkaj?rvi ,348,390
+74345 Kalliosuo   ,Sonkaj?rvi ,31,43
+74360 Sonkakoski   ,Sonkaj?rvi ,73,99
+74380 Jyrkkä   ,Sonkaj?rvi ,35,49
+74390 Laakajärvi   ,Sotkamo ,27,40
+74420 Hernejärvi   ,Sonkaj?rvi ,143,175
+74470 Paloinen   ,Lapinlahti ,69,89
+74490 Koirakoski   ,Sonkaj?rvi ,60,73
+74510 Peltosalmi-Sourunsalo   ,Iisalmi ,382,410
+74520 Kirmanranta   ,Iisalmi ,259,287
+74540 Kotikylä   ,Iisalmi ,74,84
+74550 Pörsänmäki   ,Iisalmi ,102,133
+74590 Kurenpolvi   ,Vierem? ,142,173
+74595 Runni   ,Iisalmi ,310,340
+74610 Honkaranta   ,Kiuruvesi ,89,109
+74630 Heinäkylä   ,Kiuruvesi ,110,117
+74640 Sulkavanjärvi   ,Kiuruvesi ,76,97
+74670 Rapakkojoki   ,Kiuruvesi ,58,62
+74680 Myllyniemi   ,Kiuruvesi ,212,245
+74700 Kiuruvesi Keskus   ,Kiuruvesi ,3201,3102
+74720 Niemiskylä   ,Kiuruvesi ,126,110
+74740 Aittojärvi   ,Kiuruvesi ,143,175
+74770 Kalliokylä   ,Kiuruvesi ,34,33
+74840 Koppeloharju   ,Kiuruvesi ,121,145
+74940 Remeskylä-Tihilänkangas   ,Kiuruvesi ,59,72
+74980 Tihilänkangas   ,Kiuruvesi ,15,24
+75500 Nurmes Keskus   ,Nurmes ,2116,2163
+75530 Porokylä   ,Nurmes ,1487,1359
+75650 Savikylä   ,Nurmes ,191,245
+75680 Ylä-Luosta   ,Rautavaara ,49,63
+75700 Valtimo Keskus   ,Valtimo ,732,710
+75710 Karhunpää   ,Valtimo ,131,155
+75740 Pajukoski   ,Valtimo ,52,66
+75770 Puukari   ,Valtimo ,85,108
+75790 Rumo   ,Valtimo ,40,50
+75840 Ylä-Valtimo   ,Valtimo ,78,86
+75890 Saramo-Petäiskylä-Mujejärvi   ,Nurmes ,30,42
+75930 Petäiskylä   ,Nurmes ,21,27
+75940 Mujejärvi   ,Nurmes ,0,0
+75970 Kohtavaara   ,Nurmes ,47,61
+75990 Höljäkkä   ,Nurmes ,60,71
+76100 Pieksämäki Keskus   ,Pieks?m?ki ,3040,2691
+76120 Kontiopuisto   ,Pieks?m?ki ,1012,998
+76130 Pappilanmäki   ,Pieks?m?ki ,507,481
+76150 Länsirinne   ,Pieks?m?ki ,1668,1485
+76280 Partaharju   ,Pieks?m?ki ,81,77
+76620 Pyhitty   ,Pieks?m?ki ,74,72
+76780 Lamminmäki   ,Pieks?m?ki ,55,59
+76850 Naarajärvi   ,Pieks?m?ki ,1458,1477
+76940 Nenonpelto   ,Pieks?m?ki ,109,116
+77110 Paltanen   ,Pieks?m?ki ,48,35
+77120 Venetmäki   ,Pieks?m?ki ,80,92
+77140 Huumala   ,Pieks?m?ki ,42,44
+77220 Neuvola   ,Pieks?m?ki ,77,84
+77240 Halkokumpu   ,Pieks?m?ki ,74,72
+77320 Hurskaala   ,Pieks?m?ki ,33,38
+77330 Virtasalmi Keskus   ,Pieks?m?ki ,325,335
+77350 Montola   ,Pieks?m?ki ,108,141
+77380 Kantala   ,Mikkeli ,74,80
+77430 Siikamäki   ,Pieks?m?ki ,169,214
+77460 Maavesi   ,Joroinen ,158,202
+77480 Savuniemi   ,Joroinen ,15,24
+77520 Haapakoski-Partaharju   ,Pieks?m?ki ,94,97
+77570 Jäppilä Keskus   ,Pieks?m?ki ,381,391
+77580 Tihusniemi   ,Pieks?m?ki ,69,86
+77600 Suonenjoki Keskus   ,Suonenjoki ,3341,3294
+77630 Lempyy   ,Suonenjoki ,101,113
+77690 Suontee   ,Suonenjoki ,60,60
+77700 Rautalampi Keskus   ,Rautalampi ,1304,1243
+77770 Myhinpää   ,Rautalampi ,54,65
+77800 Iisvesi   ,Suonenjoki ,261,275
+77910 Vaajasalmi   ,Rautalampi ,44,55
+77930 Kerkonjoensuu   ,Rautalampi ,191,220
+77960 Pakarila   ,Rautalampi ,0,0
+78200 Varkaus Keskus   ,Lepp?virta ,2403,2097
+78210 Kuoppakangas   ,Varkaus ,855,808
+78250 Päiviönsaari   ,Varkaus ,524,490
+78300 Kommila   ,Varkaus ,1118,1116
+78310 Puurtila   ,Lepp?virta ,564,600
+78400 Luttila   ,Varkaus ,629,661
+78480 Timola   ,Lepp?virta ,243,295
+78500 Pitkälänniemi-Könönpelto   ,Varkaus ,1242,1262
+78610 Kurola   ,Varkaus ,117,124
+78710 Akonlahti   ,Varkaus ,325,377
+78850 Käpykangas   ,Joroinen ,1546,1470
+78870 Kaura-Aho   ,Varkaus ,1192,1195
+78880 Kuvansi   ,Joroinen ,622,618
+78900 Ruokokoski   ,Varkaus ,108,112
+79100 Leppävirta Keskus   ,Lepp?virta ,2845,2715
+79130 Sorsakoski   ,Lepp?virta ,502,513
+79140 Kotalahti   ,Lepp?virta ,161,193
+79150 Konnuslahti-Valkeamäki   ,Lepp?virta ,179,211
+79160 Saamaiskylä   ,Lepp?virta ,27,36
+79180 Tuppurinmäki   ,Lepp?virta ,15,24
+79190 Valkeamäki   ,Lepp?virta ,15,20
+79230 Moninmäki   ,Lepp?virta ,22,37
+79255 Kurjala-Moninmäki   ,Lepp?virta ,67,84
+79265 Puponmäki   ,Lepp?virta ,49,58
+79330 Näädänmaa   ,Lepp?virta ,41,48
+79350 Itä-Soisalo   ,Lepp?virta ,44,47
+79410 Niinimäki   ,Lepp?virta ,72,69
+79480 Kangaslampi Keskus   ,Varkaus ,286,314
+79520 Viljolahti   ,Varkaus ,63,87
+79600 Joroinen Keskus   ,Joroinen ,1303,1265
+79620 Huutokoski   ,Joroinen ,103,110
+79630 Kolma   ,Joroinen ,116,120
+79660 Kerisalo   ,Joroinen ,80,101
+79680 Lahnalahti   ,Joroinen ,56,82
+79690 Kaitainen   ,Joroinen ,90,97
+79700 Heinävesi Keskus   ,Hein?vesi ,1199,1173
+79810 Karvion kanava   ,Hein?vesi ,117,114
+79820 Varistaipale   ,Hein?vesi ,43,60
+79830 Palokki   ,Hein?vesi ,49,35
+79850 Uusi-Valamo   ,Hein?vesi ,0,0
+79860 Suuraho - Uusi-Valamo   ,Hein?vesi ,68,110
+79885 Etelä-Petruma   ,Hein?vesi ,35,45
+79895 Sarvikumpu   ,Hein?vesi ,45,66
+79910 Kerma   ,Hein?vesi ,114,142
+79940 Vihtari-Poikiinaho   ,Hein?vesi ,65,96
+"80100 Joensuu Keskus, Pohjoinen   ",Joensuu ,5090,4191
+80110 Joensuu Keskus Eteläinen   ,Joensuu ,2577,1998
+80130 Kanervala   ,Kontiolahti ,1253,1226
+80140 Noljakka   ,Joensuu ,4304,4226
+80160 Rantakylä-Latola   ,Joensuu ,5403,5029
+80170 Utra   ,Joensuu ,1868,1903
+80200 Niinivaara   ,Joensuu ,2357,1999
+80210 Sairaala-alue   ,Joensuu ,0,0
+80220 Penttilä   ,Joensuu ,1665,1631
+80230 Hukanhauta   ,Joensuu ,2690,2560
+80260 Kettuvaara   ,Joensuu ,2323,2192
+80330 Reijola   ,Joensuu ,1182,1163
+80400 Ylämylly   ,Liperi ,2757,2676
+80510 Onttola-Kunnasniemi   ,Kontiolahti ,607,671
+80710 Lehmo   ,Kontiolahti ,2762,2764
+80770 Kontiolahti as   ,Kontiolahti ,369,388
+80780 Kontioniemi   ,Kontiolahti ,201,186
+80790 Kontioranta-Kontioniemi   ,Kontiolahti ,33,40
+80850 Paihola   ,Kontiolahti ,252,291
+80910 Kulho   ,Kontiolahti ,786,839
+81100 Kontiolahti   ,Kontiolahti ,1486,1376
+81120 Katajaranta   ,Kontiolahti ,213,226
+81160 Romppala-Riihikangas   ,Kontiolahti ,102,142
+81200 Eno Keskus   ,Joensuu ,1430,1389
+81210 Louhioja   ,Joensuu ,151,163
+81220 Jakokoski   ,Kontiolahti ,342,378
+81230 Mönni   ,Kontiolahti ,73,85
+81235 Lehtoi   ,Kontiolahti ,148,145
+81260 Ahveninen   ,Joensuu ,81,88
+81270 Paukkaja   ,Joensuu ,60,64
+81280 Uimaharju   ,Joensuu ,820,877
+81290 Ukkola   ,Joensuu ,107,131
+81295 Haapalahti   ,Joensuu ,68,86
+81320 Kuismavaara   ,Joensuu ,12,21
+81330 Luhtapohja   ,Joensuu ,43,47
+81350 Tokrajärvi   ,Ilomantsi ,65,76
+81360 Sarvinki   ,Joensuu ,37,69
+81390 Revonkylä   ,Joensuu ,37,55
+81420 Tyrjänsaari   ,Ilomantsi ,38,38
+81430 Kivilahti   ,Ilomantsi ,24,48
+81450 Huhus-Käenkoski   ,Ilomantsi ,44,54
+81460 Käenkoski   ,Ilomantsi ,0,0
+81470 Naarva   ,Ilomantsi ,23,35
+81560 Vuonisjärvi   ,Lieksa ,87,103
+81570 Kelvä   ,Lieksa ,46,65
+81590 Vuonislahti   ,Lieksa ,71,83
+81650 Hattuvaara   ,Lieksa ,62,100
+81660 Lehmikylä   ,Lieksa ,0,0
+81700 Lieksa Keskus   ,Lieksa ,2902,2709
+81720 Mähkö-Timitra   ,Lieksa ,1409,1472
+81750 Pankakoski   ,Lieksa ,407,475
+81810 Jamali   ,Lieksa ,147,179
+81820 Kylänlahti   ,Lieksa ,148,188
+81850 Mätäsvaara   ,Lieksa ,57,82
+81860 Viekijärvi   ,Lieksa ,165,196
+81950 Pankajärvi   ,Lieksa ,40,48
+81970 Jongunjoki-Pankajärvi   ,Lieksa ,80,95
+82110 Heinävaara   ,Joensuu ,508,579
+82120 Keskijärvi   ,Joensuu ,104,116
+82140 Kiihtelysvaara Keskus   ,Joensuu ,462,483
+82160 Oskola   ,Joensuu ,36,32
+82170 Uskali   ,Joensuu ,22,33
+82180 Huhtilampi   ,Joensuu ,35,48
+82200 Hammaslahti   ,Joensuu ,1538,1641
+82210 Suhmura   ,Joensuu ,268,264
+82220 Niittylahti   ,Joensuu ,1049,1076
+82290 Nieminen   ,R??kkyl? ,184,223
+82300 Rääkkylä Keskus   ,R??kkyl? ,519,464
+82310 Oravisalo-Varpasalo   ,R??kkyl? ,130,148
+82335 Rasivaara   ,R??kkyl? ,287,373
+82350 Tikkala   ,Tohmaj?rvi ,158,191
+82360 Onkamo   ,Tohmaj?rvi ,208,234
+82380 Tolosenmäki   ,Kitee ,222,240
+82395 Haarajärvi   ,Kitee ,82,81
+82430 Puhos-Leinovaara   ,Kitee ,435,455
+82460 Hummovaara   ,Kitee ,53,60
+82490 Heinoniemi   ,Kitee ,55,71
+82500 Kitee Keskus   ,Kitee ,3159,2964
+82510 Kiteenlahti   ,Kitee ,120,146
+82580 Juurikka   ,Kitee ,168,208
+82590 Närsäkkälä   ,Kitee ,61,71
+82600 Tohmajärvi Keskus   ,Tohmaj?rvi ,1431,1451
+82655 Värtsilä Keskus   ,Tohmaj?rvi ,158,182
+82660 Uusi-Värtsilä   ,Tohmaj?rvi ,109,117
+82670 Kaurila   ,Tohmaj?rvi ,47,57
+82675 Niirala-Jänisjoki   ,Tohmaj?rvi ,58,64
+82685 Littilä   ,Tohmaj?rvi ,91,109
+82710 Kovero   ,Joensuu ,217,228
+82730 Tuupovaara Keskus-Pirttiaho   ,Joensuu ,385,383
+82750 Öllölä   ,Joensuu ,46,67
+82760 Hoilola   ,Joensuu ,47,49
+82770 Kaustajärvi   ,Tohmaj?rvi ,0,0
+82815 Marjovaara   ,Joensuu ,62,87
+82820 Maukkula   ,Ilomantsi ,113,142
+82830 Haukivaara   ,Ilomantsi ,41,59
+82840 Pirttiaho   ,Joensuu ,14,20
+82850 Kinnasniemi   ,Joensuu ,26,43
+82865 Kokinvaara-Mannervaara   ,Joensuu ,13,23
+82870 Luutalahti   ,Joensuu ,15,19
+82880 Mannervaara   ,Joensuu ,0,0
+82900 Ilomantsi Keskus   ,Ilomantsi ,2000,1857
+82915 Sonkaja   ,Ilomantsi ,94,107
+82960 Lehtovaara-Kuikkalampi   ,Ilomantsi ,50,75
+82967 Hattu   ,Ilomantsi ,35,48
+82980 Möhkö   ,Ilomantsi ,37,43
+83100 Liperi Keskus   ,Liperi ,1308,1270
+83130 Salokylä   ,Liperi ,193,203
+83140 Puromäki   ,Liperi ,55,71
+83150 Roukalahti   ,Liperi ,110,108
+83160 Tutjunniemi   ,Liperi ,65,95
+83320 Risti-Juojärvi   ,Liperi ,39,38
+83330 Kaatamo   ,Liperi ,110,126
+83340 Kaarnalampi   ,Liperi ,37,49
+83400 Viinijärvi   ,Liperi ,710,762
+83430 Käsämä   ,Liperi ,276,320
+83450 Vaivio   ,Liperi ,169,188
+83460 Harinjärvi   ,Liperi ,154,157
+83480 Ahonkylä   ,Liperi ,88,99
+83500 Outokumpu Keskus   ,Outokumpu ,3150,3041
+83550 Kokonvaara   ,Outokumpu ,77,87
+83630 Kuusjärvi   ,Outokumpu ,196,213
+83660 Varislahti   ,Outokumpu ,125,153
+83700 Polvijärvi Keskus   ,Polvij?rvi ,1243,1232
+83720 Kuorevaara   ,Polvij?rvi ,136,150
+83750 Sotkuma   ,Polvij?rvi ,262,275
+83760 Sola   ,Polvij?rvi ,40,50
+83780 Horsmanaho   ,Polvij?rvi ,104,123
+83825 Kinahmo   ,Polvij?rvi ,137,140
+83830 Hukkala   ,Polvij?rvi ,60,65
+83835 Ruvaslahti   ,Polvij?rvi ,114,130
+83840 Saarivaara   ,Polvij?rvi ,24,36
+83855 Martonvaara-Sammakkovaara   ,Polvij?rvi ,75,83
+83870 Polvela-Timovaara   ,Juuka ,91,117
+83880 Kajoo   ,Juuka ,80,104
+83900 Juuka Keskus   ,Juuka ,1886,1777
+83910 Paalasmaa   ,Juuka ,36,37
+83915 Vihtasuo   ,Juuka ,0,0
+83940 Nunnanlahti   ,Juuka ,154,205
+83950 Ahmovaara   ,Juuka ,196,271
+83960 Koli   ,Lieksa ,116,143
+83985 Tuopanjoki   ,Juuka ,0,0
+84100 Ylivieska Keskus   ,Ylivieska ,6681,6597
+84460 Tuomiperä   ,Ylivieska ,85,115
+84540 Vähäkangas   ,Ylivieska ,277,310
+84650 Kantokylä   ,Ylivieska ,105,119
+84770 Isokoski   ,Ylivieska ,47,54
+84880 Raudaskylä   ,Ylivieska ,300,357
+85100 Kalajoki Keskus   ,Kalajoki ,3564,3487
+85120 Metsä   ,Kalajoki ,134,168
+85140 Tynkä   ,Kalajoki ,420,427
+85150 Typpö   ,Kalajoki ,153,172
+85160 Rautio   ,Kalajoki ,281,333
+85180 Rahja   ,Kalajoki ,228,248
+85200 Alavieska Keskus   ,Alavieska ,1043,1104
+85210 Kähtävä   ,Alavieska ,116,125
+85230 Talus   ,Alavieska ,116,154
+85310 Sievi Asemanseutu   ,Sievi ,264,287
+85320 Markkula   ,Sievi ,127,138
+85340 Jyrinki   ,Sievi ,348,411
+85410 Sievi Keskus   ,Sievi ,1039,1011
+85430 Koivisto   ,Sievi ,295,311
+85450 Joenkylä   ,Sievi ,129,149
+85470 Kiiskilampi   ,Sievi ,249,288
+85500 Nivala Keskus   ,Nivala ,3779,3739
+85540 Mönkö   ,Nivala ,267,310
+85560 Ainastalo   ,Nivala ,205,269
+85580 Karvoskylä   ,Nivala ,306,388
+85620 Sarja   ,Nivala ,136,144
+85630 Sarjanahde   ,Nivala ,283,324
+85640 Maliskylä   ,Nivala ,244,268
+85660 Ruuskankylä   ,Nivala ,81,92
+85710 Parkkila   ,Haapaj?rvi ,162,211
+85730 Tulppo   ,Haapaj?rvi ,59,75
+85800 Haapajärvi Keskus   ,Haapaj?rvi ,2880,2887
+85820 Oksava   ,Haapaj?rvi ,408,472
+85840 Kuona   ,Haapaj?rvi ,141,179
+85900 Reisjärvi Keskus   ,Reisj?rvi ,1023,1033
+85930 Kangaskylä-Tolpankangas   ,Reisj?rvi ,79,88
+85940 Räisälänmäki   ,Reisj?rvi ,119,138
+85980 Köyhänperä   ,Reisj?rvi ,170,193
+86100 Pyhäjoki Keskus   ,Pyh?joki ,925,958
+86110 Parhalahti   ,Pyh?joki ,173,191
+86160 Pirttikoski   ,Pyh?joki ,149,164
+86170 Yppäri   ,Pyh?joki ,279,304
+86210 Petäjäskoski   ,Oulainen ,97,108
+86220 Merijärvi Keskus   ,Merij?rvi ,388,447
+86230 Ylipää   ,Merij?rvi ,70,79
+86240 Pyhänkoski   ,Merij?rvi ,87,107
+86300 Oulainen Keskus   ,Oulainen ,3498,3292
+86350 Kilpua   ,Oulainen ,62,67
+86360 Ilveskorpi   ,Raahe ,100,118
+86400 Vihanti Keskus   ,Raahe ,845,900
+86440 Lampinsaari   ,Raahe ,134,131
+86460 Alpua   ,Raahe ,187,205
+86470 Lumimetsä   ,Raahe ,92,106
+86480 Karhukangas   ,Haapavesi ,29,25
+86510 Matkaniva   ,Oulainen ,143,158
+86530 Annonen   ,Oulainen ,91,95
+86550 Mieluskylä   ,Haapavesi ,180,213
+86600 Haapavesi Keskus   ,Haapavesi ,2721,2752
+86650 Kytökylä-Joutenniva   ,Haapavesi ,232,275
+86680 Vatjusjärvi   ,Haapavesi ,218,253
+86690 Karsikas   ,Haapavesi ,79,98
+86710 Kärsämäki Keskus   ,K?rs?m?ki ,1266,1364
+86790 Venetpalo   ,K?rs?m?ki ,0,0
+86800 Pyhäsalmi   ,Pyh?j?rvi ,2153,2102
+86810 Pellikkaperä   ,Pyh?j?rvi ,83,88
+86850 Hiidenniemi   ,Pyh?j?rvi ,114,128
+86870 Vesikoski   ,Pyh?j?rvi ,119,138
+86900 Pyhäkumpu   ,Pyh?j?rvi ,239,259
+86980 Väliaho   ,Pyh?j?rvi ,30,34
+87100 Kajaani Keskus   ,Kajaani ,3377,2623
+87150 Purola   ,Kajaani ,1157,1174
+87200 Teppana   ,Kajaani ,2163,1880
+87250 Kättö-Kätönlahti   ,Kajaani ,2203,2195
+87300 Palokangas   ,Kajaani ,589,522
+87400 Petäisenniska   ,Kajaani ,900,896
+87500 Lehtikangas   ,Kajaani ,2971,2962
+87700 Lohtaja-Kettu   ,Kajaani ,1948,2211
+87800 Vuoreslahti   ,Kajaani ,428,500
+87830 Nakertaja   ,Kajaani ,742,788
+87850 Paltaniemi   ,Kajaani ,244,267
+87900 Karankalahti   ,Kajaani ,215,255
+87910 Linnantaus   ,Kajaani ,250,268
+87930 Salmijärvi   ,Kajaani ,215,152
+87950 Kuluntalahti   ,Kajaani ,466,458
+87970 Jormua   ,Kajaani ,237,249
+88120 Tuhkakylä   ,Sotkamo ,38,49
+88200 Otanmäki-Kytökoski   ,Kajaani ,462,519
+88270 Vuolijoki Keskus   ,Kajaani ,441,467
+88300 Paltamo Keskus   ,Paltamo ,1123,1162
+88310 Melalahti   ,Paltamo ,105,114
+88340 Manamansalo   ,Vaala ,36,59
+88350 Kivesjärvi   ,Paltamo ,52,57
+88380 Mieslahti   ,Paltamo ,115,129
+88400 Ristijärvi Keskus-Hiisijärvi   ,Ristij?rvi ,592,645
+88440 Jokikylä   ,Ristij?rvi ,31,31
+88460 Hiisijärvi   ,Ristij?rvi ,22,31
+88470 Kontiomäki   ,Paltamo ,252,288
+88490 Pohjavaara   ,Sotkamo ,122,129
+88530 Paakki   ,Sotkamo ,48,66
+88600 Sotkamo Keskus   ,Sotkamo ,3335,3128
+88610 Vuokatti   ,Sotkamo ,1281,1319
+88615 Vuokatin Urheiluopisto   ,Sotkamo ,0,0
+88620 Korholanmäki   ,Sotkamo ,236,258
+88640 Ontojoki   ,Sotkamo ,42,40
+88670 Juurikkalahti-Maanselkä   ,Sotkamo ,95,99
+88690 Maanselkä   ,Sotkamo ,19,30
+88730 Ylä-Vieksi   ,Kuhmo ,60,79
+88740 Härmänkylä-Iivantiira   ,Kuhmo ,36,52
+88760 Iivantiira   ,Kuhmo ,63,96
+88820 Katerma   ,Kuhmo ,0,0
+88900 Kuhmo Keskus   ,Kuhmo ,3939,4093
+88930 Lentiira-Kuumu   ,Kuhmo ,122,180
+88940 Kuumu   ,Kuhmo ,0,0
+89110 Törmänmäki   ,Puolanka ,22,30
+89140 Kotila-Törmänmäki   ,Puolanka ,32,56
+89200 Puolanka Keskus   ,Puolanka ,1146,1187
+89210 Puokiovaara   ,Puolanka ,24,33
+89320 Joukokylä   ,Puolanka ,49,75
+89330 Suolijärvi   ,Puolanka ,29,39
+89400 Hyrynsalmi Keskus   ,Hyrynsalmi ,1025,1085
+89430 Hoikka   ,Hyrynsalmi ,22,26
+89440 Sakara   ,Suomussalmi ,48,50
+89540 Moisiovaara   ,Hyrynsalmi ,87,118
+89560 Karhuvaara   ,Hyrynsalmi ,40,34
+89600 Ämmänsaari   ,Suomussalmi ,2744,2612
+89610 Jumaliskylä   ,Suomussalmi ,24,33
+89640 Pesiökylä   ,Suomussalmi ,55,63
+89660 Takalo   ,Suomussalmi ,48,55
+89670 Näljänkä   ,Suomussalmi ,95,140
+89680 Vaaranniva   ,Suomussalmi ,39,57
+89730 Ahjola   ,Suomussalmi ,13,18
+89740 Kianta   ,Suomussalmi ,21,29
+89760 Piispajärvi-Peranka-Kaikkoinen   ,Suomus,43,64
+89770 Peranka   ,Suomussalmi ,19,17
+89780 Kaikkonen   ,Suomussalmi ,26,36
+89800 Suomussalmi Keskus   ,Suomussalmi ,673,775
+89830 Ala-Vuokki   ,Suomussalmi ,21,31
+89840 Ylä-Vuokki   ,Suomussalmi ,28,44
+89920 Ruhtinansalmi   ,Suomussalmi ,171,197
+90100 Oulu Keskus   ,Oulu ,4398,3682
+90120 Heinäpää   ,Oulu ,3564,3149
+90130 Raksila   ,Oulu ,3428,2840
+90140 Karjasilta   ,Oulu ,1734,1409
+90150 Höyhtyä   ,Oulu ,2897,2898
+90220 Kontinkangas   ,Oulu ,357,315
+90230 Värttö-Maikkula   ,Oulu ,3925,3461
+90240 Iinatti   ,Oulu ,3164,3105
+90250 Kaukovainio   ,Oulu ,3352,3299
+90310 Madekoski   ,Oulu ,1387,1456
+90400 Äimärautio   ,Oulu ,566,460
+90410 Kaakkuri   ,Oulu ,2113,2156
+90420 Metsokangas   ,Oulu ,5183,5200
+90440 Kempele Keskus   ,Kempele ,4714,4559
+90450 Honkanen   ,Kempele ,3781,3817
+90460 Oulunsalo Keskus   ,Oulu ,4318,4447
+90470 Varjakka   ,Oulu ,603,652
+90480 Hailuoto   ,Hailuoto ,480,508
+90500 Tuira   ,Oulu ,4464,3754
+90510 Hietasaari   ,Oulu ,927,830
+90520 Taskila-Toppila   ,Oulu ,2472,2700
+90530 Välivainio   ,Oulu ,2879,2873
+90540 Kuivasjärvi   ,Oulu ,5628,5810
+90550 Pyykkösjärvi-Puolivälikangas   ,Oulu ,2313,2122
+90560 Koskela-Oulu   ,Oulu ,1507,1451
+90570 Kaijonharju-Linnanmaa   ,Oulu ,3213,4054
+90580 Rajakylä   ,Oulu ,2177,2320
+90590 Teknologiakylä   ,Oulu ,0,0
+90620 Rusko-Heikinharju   ,Oulu ,240,310
+90630 Korvensuora   ,Oulu ,3386,3587
+90650 Haapalehto   ,Oulu ,5310,5206
+90660 Sanginsuu   ,Oulu ,302,345
+90670 Hiukkavaara   ,Oulu ,567,591
+90800 Pateniemi   ,Oulu ,4080,4100
+90810 Kiviniemi   ,Oulu ,1458,1462
+90820 Kello   ,Oulu ,1616,1710
+90830 Haukipudas Keskus   ,Oulu ,4237,4113
+90840 Haukipudas Asemanseutu   ,Oulu ,952,1046
+90850 Martinniemi   ,Oulu ,1131,1171
+90860 Halosenniemi   ,Oulu ,260,285
+90900 Kiiminki Keskus   ,Oulu ,3357,3428
+90910 Kontio   ,Oulu ,801,895
+90940 Jääli   ,Oulu ,2474,2600
+91100 Ii Keskus   ,Ii ,3215,3285
+91110 Ii Asemanseutu   ,Ii ,420,463
+91140 Olhava   ,Ii ,157,225
+91150 Yli-Olhava   ,Ii ,74,92
+91200 Yli-Ii Keskus   ,Oulu ,628,670
+91210 Jakkukylä   ,Oulu ,214,258
+91240 Tannila   ,Oulu ,94,107
+91260 Pahkakoski-Räinä   ,Oulu ,54,77
+91300 Ylikiiminki Keskus   ,Oulu ,1528,1758
+91310 Arkala   ,Oulu ,101,123
+91410 Jokirinne   ,Muhos ,498,526
+91430 Leppiniemi   ,Muhos ,70,73
+91500 Muhos Keskus   ,Muhos ,3569,3729
+91510 Rova   ,Muhos ,253,230
+91560 Kylmälänkylä   ,Muhos ,58,72
+91600 Utajärvi Keskus   ,Utaj?rvi ,1036,1067
+91620 Sanginkylä   ,Utaj?rvi ,79,109
+91630 Juorkuna   ,Utaj?rvi ,43,55
+91640 Särkijärvi   ,Utaj?rvi ,48,56
+91660 Ahmas   ,Utaj?rvi ,121,163
+91670 Rokua   ,Muhos ,0,0
+91700 Vaala Keskus-Oterma   ,Vaala ,801,768
+91710 Jylhämä   ,Vaala ,27,26
+91720 Oterma   ,Vaala ,25,42
+91730 Kankari   ,Vaala ,50,60
+91740 Jaalanka-Liminpuro   ,Vaala ,50,76
+91750 Liminpuro   ,Vaala ,24,36
+91760 Säräisniemi   ,Vaala ,143,148
+91780 Neittävä   ,Vaala ,48,58
+91790 Nuojua   ,Vaala ,73,88
+91800 Tyrnävä   ,Tyrn?v? ,2867,3012
+91900 Liminka Keskus   ,Liminka ,2979,3138
+91910 Tupos   ,Liminka ,1617,1652
+91930 Ala-Temmes   ,Liminka ,228,237
+91950 Temmes   ,Liminka ,340,326
+91980 Lumijoki   ,Lumijoki ,980,1041
+92100 Raahe Keskus   ,Raahe ,2131,1905
+92120 Ollinsaari-Mestauskallio   ,Raahe ,1410,1630
+92130 Isoholmi-Antinkangas   ,Raahe ,1617,1603
+92140 Pattijoki Keskus   ,Raahe ,3062,3216
+92150 Kummatti-Junnilanmäki   ,Raahe ,658,677
+92160 Saloinen   ,Raahe ,857,923
+92180 Lapaluoto   ,Raahe ,70,75
+92210 Arkkukari   ,Raahe ,460,481
+92220 Piehinki   ,Raahe ,320,345
+92230 Mattilanperä   ,Raahe ,114,125
+92240 Lasikangas   ,Raahe ,137,166
+92260 Kopsa   ,Raahe ,139,160
+92320 Siikajoki Keskus   ,Siikajoki ,509,546
+92330 Karinkanta   ,Siikajoki ,92,126
+92350 Revonlahti   ,Siikajoki ,369,423
+92400 Ruukki Keskus   ,Siikajoki ,838,876
+92430 Paavola-Huumola   ,Siikajoki ,481,518
+92440 Saarikoski   ,Siikajoki ,13,23
+92450 Luohua   ,Siikajoki ,169,179
+92470 Tuomioja   ,Siikajoki ,121,140
+92500 Rantsila Keskus   ,Siikalatva ,699,833
+92520 Sipola   ,Siikalatva ,31,40
+92530 Mankila   ,Siikalatva ,83,91
+92600 Pulkkila Keskus   ,Siikalatva ,581,601
+92610 Vorna   ,Siikalatva ,43,53
+92620 Piippola Keskus   ,Siikalatva ,431,495
+92640 Leskelä   ,Siikalatva ,81,111
+92650 Laakkola   ,Siikalatva ,85,97
+92700 Kestilä   ,Siikalatva ,616,683
+92810 Pelsonsuo   ,Vaala ,83,89
+92830 Veneheitto   ,Vaala ,112,149
+92910 Tavastkenkä   ,Pyh?nt? ,120,165
+92920 Ahokylä   ,Pyh?nt? ,31,42
+92930 Pyhäntä   ,Pyh?nt? ,591,625
+93100 Pudasjärvi Keskus   ,Pudasj?rvi ,2509,2493
+93140 Kipinä   ,Pudasj?rvi ,200,275
+93160 Hetejärvi   ,Pudasj?rvi ,100,149
+93170 Yli-Kollaja   ,Pudasj?rvi ,49,61
+93180 Ikosenniemi   ,Pudasj?rvi ,0,0
+93187 Ala-Siurua   ,Pudasj?rvi ,63,77
+93190 Yli-Siurua-Ikosenniemi   ,Pudasj?rvi ,48,69
+93195 Kokkokylä   ,Pudasj?rvi ,25,37
+93220 Livo   ,Pudasj?rvi ,51,47
+93225 Pärjänsuo   ,Pudasj?rvi ,110,130
+93240 Rytinki   ,Pudasj?rvi ,54,70
+93250 Sarajärvi   ,Pudasj?rvi ,113,129
+93270 Sotkajärvi   ,Pudasj?rvi ,208,258
+93277 Iinattijärvi   ,Pudasj?rvi ,58,97
+93280 Syöte   ,Pudasj?rvi ,106,131
+93290 Pintamo   ,Pudasj?rvi ,44,47
+93350 Jaurakkajärvi   ,Pudasj?rvi ,66,80
+93390 Puhoskylä   ,Pudasj?rvi ,88,126
+93400 Taivalkoski Keskus   ,Taivalkoski ,1561,1625
+93420 Jurmu   ,Taivalkoski ,102,139
+93440 Loukusa   ,Taivalkoski ,18,33
+93470 Inget   ,Taivalkoski ,57,87
+93540 Tyrövaara   ,Taivalkoski ,148,206
+93590 Vanhala   ,Taivalkoski ,79,131
+93600 Kuusamo Keskus   ,Kuusamo ,5443,5219
+93630 Kuoliovaara   ,Kuusamo ,75,85
+93680 Vasaraperä   ,Kuusamo ,63,69
+93730 Poussu   ,Kuusamo ,21,19
+93760 Kemilä-Murtovaara-Teeriranta   ,Kuusamo ,0,0
+93780 Teeriranta   ,Kuusamo ,0,0
+93820 Aikkila-Rukatunturi   ,Kuusamo ,62,71
+93830 Rukatunturi   ,Kuusamo ,139,134
+93840 Patoniemi   ,Kuusamo ,0,0
+93850 Käylä-Patoniemi   ,Kuusamo ,112,135
+93920 Määttälänvaara   ,Kuusamo ,61,78
+93940 Vuotunki   ,Kuusamo ,40,48
+93990 Kärpänkylä   ,Kuusamo ,0,0
+93999 Kuusamo   ,Kuusamo ,1606,2014
+94100 Kemi Keskus   ,Kemi ,3551,2904
+94200 Torvinen-Vainio   ,Kemi ,1261,1253
+94300 Pajusaari   ,Kemi ,142,181
+94400 Keminmaa Keskus   ,Keminmaa ,1415,1341
+94430 Kaakamo   ,Tornio ,471,511
+94450 Lassila-Jokisuu   ,Keminmaa ,1154,1285
+94460 Ruottala   ,Tornio ,80,94
+94500 Lautiosaari   ,Keminmaa ,1012,1080
+94600 Ristikangas-Kivikko   ,Kemi ,1405,1433
+94700 Takajärvi-Haukkari   ,Kemi ,2993,3178
+94720 Peurasaari   ,Kemi ,526,509
+94800 Veitsiluoto   ,Kemi ,0,0
+94830 Pikku Berliini-Hepola   ,Kemi ,891,907
+94900 Ajos   ,Kemi ,167,192
+95100 Kuivaniemi Keskus   ,Ii ,497,505
+95110 Kuivaniemi kk   ,Ii ,142,171
+95130 Hyryoja   ,Ii ,74,74
+95160 Oijärvi-Lamminperä   ,Ii ,85,119
+95200 Simo Keskus   ,Simo ,680,660
+95210 Filpus   ,Simo ,115,131
+95220 Simoniemi   ,Simo ,156,172
+95225 Viantie   ,Simo ,100,123
+95230 Maksniemi   ,Simo ,401,399
+95255 Alaniemi   ,Simo ,42,44
+95260 Tainionjoki   ,Simo ,20,34
+95270 Yli-Kärppä-Tainionjoki   ,Simo ,62,66
+95300 Tervola Keskus   ,Tervola ,907,942
+95310 Liedakkala   ,Keminmaa ,223,230
+95315 Törmä   ,Keminmaa ,90,116
+95325 Paakkola   ,Tervola ,76,88
+95330 Tervola   ,Tervola ,232,281
+95340 Loue   ,Tervola ,109,150
+95350 Peura   ,Tervola ,0,0
+95355 Koivu-Peura   ,Tervola ,124,150
+95365 Maula   ,Keminmaa ,125,136
+95370 Itäkoski   ,Keminmaa ,102,87
+95375 Yli-Paakkola   ,Tervola ,51,63
+95400 Tornio Keskus   ,Tornio ,1499,1126
+95410 Kiviranta   ,Tornio ,1603,1602
+95420 Miukki-Palosaari-Luotomäki   ,Tornio ,1921,1952
+95430 Suensaari   ,Tornio ,672,565
+95440 Kyläjoki   ,Tornio ,455,487
+95450 Kirkonmäki   ,Tornio ,1736,1818
+95460 Kantojärvi   ,Tornio ,500,564
+95470 Pirkkiö-Röyttä   ,Tornio ,448,533
+95490 Terästehtaanalue   ,Tornio ,0,0
+95500 Vojakkala-Yli-Liakka   ,Tornio ,546,594
+95520 Kukkola   ,Tornio ,147,177
+95530 Karunki   ,Tornio ,397,419
+95540 Korpikylä   ,Tornio ,43,43
+95560 Aapajoki   ,Tornio ,110,98
+95590 Arpela   ,Tornio ,379,433
+95600 Ylitornio Keskus   ,Ylitornio ,1078,1032
+95610 Kainuunkylä   ,Ylitornio ,106,122
+95615 Pekanpää   ,Ylitornio ,51,52
+95620 Aavasaksa   ,Ylitornio ,196,229
+95630 Kuivakangas   ,Ylitornio ,79,76
+95635 Kaulinranta   ,Ylitornio ,119,110
+95640 Juoksenki   ,Pello ,101,112
+95645 Turtola   ,Pello ,123,137
+95655 Etelä-Portimojärvi   ,Ylitornio ,62,69
+95660 Kantomaanpää   ,Ylitornio ,77,97
+95670 Pessalompolo   ,Ylitornio ,46,74
+95675 Meltosjärvi   ,Ylitornio ,67,69
+95680 Lohijärvi   ,Ylitornio ,28,28
+95690 Mellakoski   ,Ylitornio ,97,90
+95700 Pello Keskus   ,Pello ,1145,1161
+95710 Naamijoki   ,Pello ,20,23
+95720 Jarhoinen   ,Pello ,18,20
+95750 Orajärvi   ,Pello ,52,65
+95760 Konttajärvi   ,Pello ,49,55
+95770 Lankojärvi   ,Pello ,89,97
+95780 Sirkkakoski   ,Pello ,55,62
+95790 Lampsijärvi   ,Pello ,40,45
+95800 Sieppijärvi-Taapajärvi   ,Kolari ,221,254
+95830 Vaattojärvi   ,Kolari ,68,99
+95840 Venejärvenkylä   ,Kolari ,28,39
+95850 Ruokojärvi   ,Kolari ,12,19
+95860 Pasmajärvi   ,Kolari ,22,16
+95900 Kolari Keskus   ,Kolari ,922,906
+95920 Saaripudas   ,Kolari ,78,86
+95930 Äkäsjoensuu   ,Kolari ,57,61
+95940 Tapojärvi   ,Muonio ,20,29
+95950 Kihlanki-Tapojärvi   ,Muonio ,20,31
+95970 Äkäslompolo   ,Muonio ,263,291
+95980 Ylläsjärvi   ,Kolari ,137,125
+95990 Kurtakko   ,Kolari ,39,40
+96100 Rovaniemi Keskus   ,Rovaniemi ,5589,4333
+96190 Lapinrinne-Ahokangas   ,Rovaniemi ,2020,2039
+96200 Sahanperä-Ratantaus   ,Rovaniemi ,2786,2192
+96300 Niemelänkangas-Korvanniemi   ,Rovaniemi ,2929,2736
+96320 Teollisuuskylä   ,Rovaniemi ,0,0
+96400 Pullinranta-Kiiruna   ,Rovaniemi ,1802,1709
+96440 Ounasrinne   ,Rovaniemi ,1637,1590
+96460 Pöykkölä   ,Rovaniemi ,1400,1339
+96500 Korkalovaara   ,Rovaniemi ,2934,2797
+96600 Koskenkylä   ,Rovaniemi ,613,653
+96700 Niskanperä   ,Rovaniemi ,353,423
+96800 Ylikylä-Patosaari   ,Rovaniemi ,875,884
+96900 Saarenkylä   ,Rovaniemi ,3591,3522
+96910 Syväsenvaara   ,Rovaniemi ,1444,1439
+96930 Napapiiri Rovaniemi   ,Rovaniemi ,24,34
+96960 Someroharju   ,Rovaniemi ,64,78
+97110 Rautionsaari   ,Rovaniemi ,265,259
+97130 Hirvas   ,Rovaniemi ,387,454
+97140 Muurola   ,Rovaniemi ,583,611
+97145 Totonvaara   ,Rovaniemi ,0,0
+97160 Petäjäinen   ,Rovaniemi ,58,63
+97170 Jaatila   ,Rovaniemi ,83,89
+97220 Sinettä   ,Rovaniemi ,410,424
+97240 Sonka   ,Rovaniemi ,132,168
+97250 Raanujärvi   ,Ylitornio ,99,101
+97280 Tapio   ,Rovaniemi ,145,171
+97290 Marraskoski   ,Rovaniemi ,54,56
+97310 Patokoski   ,Rovaniemi ,57,69
+97320 Marrasjärvi   ,Rovaniemi ,30,44
+97330 Rattosjärvi   ,Pello ,24,27
+97335 Ruuhivaara   ,Pello ,37,40
+97340 Meltaus-Jääskö-Perttaus   ,Rovaniemi ,155,183
+97370 Unarin-Luusua   ,Sodankyl? ,21,32
+97380 Kukasranta   ,Sodankyl? ,0,0
+97390 Kierinki   ,Sodankyl? ,52,89
+97420 Lohiniva   ,Kittil? ,187,229
+97430 Taapajärvi   ,Kolari ,0,0
+97470 Alakylä-Sailehto   ,Kittil? ,72,77
+97510 Vikajärvi   ,Rovaniemi ,75,107
+97520 Nampa   ,Rovaniemi ,19,22
+97530 Nampa-Yli-Nampa   ,Rovaniemi ,34,54
+97540 Tiainen   ,Rovaniemi ,34,49
+97580 Misi   ,Rovaniemi ,32,48
+97590 Raajärvi   ,Kemij?rvi ,0,0
+97610 Oikarainen   ,Rovaniemi ,222,238
+97615 Tennirova   ,Rovaniemi ,0,0
+97620 Viiri-Tennirova   ,Rovaniemi ,42,46
+97625 Vanttauskoski   ,Rovaniemi ,131,198
+97630 Pekkala   ,Rovaniemi ,44,60
+97635 Juuniemi   ,Rovaniemi ,35,38
+97645 Juujärvi   ,Kemij?rvi ,48,62
+97650 Juotas   ,Rovaniemi ,64,72
+97655 Autti   ,Rovaniemi ,67,75
+97665 Pohjasperä   ,Ranua ,64,111
+97670 Kivitaipale   ,Rovaniemi ,125,142
+97675 Narkaus-Kämät   ,Rovaniemi ,67,78
+97680 Saari-Kämä   ,Rovaniemi ,40,46
+97685 Siika-Kämä   ,Rovaniemi ,18,22
+97690 Sulaoja   ,Rovaniemi ,54,61
+97700 Ranua Keskus   ,Ranua ,1533,1551
+97715 Raiskio   ,Ranua ,73,104
+97720 Yli-Simo-Raiskio   ,Ranua ,35,56
+97760 Saariharju   ,Ranua ,56,85
+97765 Kuha-Impiö-Itäranua   ,Ranua ,59,58
+97770 Petäjäjärvi   ,Ranua ,0,0
+97780 Kuukasjärvi-Petäjäjärvi   ,Ranua ,42,60
+97785 Kelankylä   ,Ranua ,26,39
+97810 Suorsa   ,Posio ,0,0
+97815 Pernu-Suorsa   ,Posio ,30,39
+97820 Perä-Posio   ,Posio ,46,59
+97840 Lehtiniemi   ,Posio ,44,57
+97850 Ristilä   ,Posio ,37,49
+97870 Jumisko   ,Posio ,16,21
+97880 Nolimo-Jumisko   ,Posio ,20,18
+97890 Karjalaisenniemi   ,Posio ,102,136
+97895 Mourujärvi   ,Posio ,43,58
+97900 Posio Keskus   ,Posio ,968,909
+97920 Suonnankylä   ,Posio ,41,61
+97925 Tolva   ,Posio ,31,36
+97940 Lohiranta   ,Posio ,38,49
+97950 Säikkä   ,Posio ,0,0
+97960 Kuloharju-Säikkä   ,Posio ,47,56
+97965 Kynsilä   ,Posio ,38,56
+97970 Sirniö   ,Posio ,38,40
+97980 Anetjärvi   ,Posio ,64,75
+97999 Köngäs   ,Kittil? ,0,0
+98100 Kemijärvi Keskus   ,Kemij?rvi ,1425,1221
+98120 Särkikangas   ,Kemij?rvi ,863,900
+98230 Luusua-Karsimus   ,Kemij?rvi ,82,113
+98310 Karvakko   ,Kemij?rvi ,283,276
+98350 Tapionniemi   ,Kemij?rvi ,69,75
+98360 Vuostimo   ,Kemij?rvi ,60,85
+98400 Isokylä-Ryti-Lehtola   ,Kemij?rvi ,300,347
+98420 Ryti-Lehtola   ,Kemij?rvi ,62,63
+98440 Kallaanvaara   ,Kemij?rvi ,397,426
+98450 Kostamo   ,Kemij?rvi ,130,158
+98500 Pelkosenniemi Keskus   ,Pelkosenniemi ,239,259
+98510 Saunavaara   ,Pelkosenniemi ,22,24
+98530 Pyhätunturi   ,Pelkosenniemi ,94,128
+98550 Suvanto   ,Pelkosenniemi ,0,0
+98560 Kairala-Luiro   ,Pelkosenniemi ,40,50
+98570 Aapajärvi   ,Pelkosenniemi ,13,20
+98580 Luiro   ,Pelkosenniemi ,14,19
+98600 Kursu   ,Salla ,104,166
+98620 Pahkakumpu   ,Salla ,24,40
+98630 Ahvenselkä   ,Pelkosenniemi ,33,47
+98660 Salmivaara   ,Salla ,49,75
+98710 Joutsijärvi   ,Kemij?rvi ,47,57
+98720 Suomutunturi   ,Kemij?rvi ,41,57
+98760 Hirvasvaara-Paloperä   ,Salla ,28,38
+98770 Aholanvaara   ,Salla ,17,27
+98780 Maaninkavaara   ,Posio ,39,42
+98790 Paloperä   ,Salla ,17,24
+98800 Savukoski Keskus-Värriö   ,Savukoski ,247,295
+98810 Lunkkaus   ,Savukoski ,14,25
+98820 Värriö   ,Savukoski ,25,24
+98830 Martti-Ruuvaoja   ,Savukoski ,67,87
+98840 Ruuvaoja   ,Savukoski ,0,0
+98850 Kuosku   ,Savukoski ,58,72
+98900 Salla Keskus   ,Salla ,1096,1107
+98920 Kelloselkä   ,Salla ,72,93
+98930 Kotalankylä   ,Salla ,43,60
+98950 Saija   ,Salla ,67,81
+98960 Naruska   ,Salla ,28,25
+98970 Onkamojärvi   ,Salla ,31,46
+98980 Kallunki-Niemelä   ,Salla ,17,21
+98995 Hautajärvi   ,Salla ,100,142
+99100 Kittilä Keskus   ,Kittil? ,1448,1341
+99110 Kaukonen   ,Kittil? ,165,182
+99120 Kallo   ,Kittil? ,58,69
+99130 Sirkka-Rauhala   ,Kittil? ,591,568
+99135 Rauhala   ,Kittil? ,0,0
+99140 Köngäs-Hanhivaara   ,Kittil? ,108,111
+99150 Tepasto   ,Kittil? ,43,51
+99160 Lompolo-Pulju   ,Kittil? ,37,33
+99170 Pulju   ,Kittil? ,0,0
+99180 Rautusjärvi   ,Kittil? ,29,29
+99190 Hanhimaa   ,Kittil? ,17,23
+99195 Pokka   ,Kittil? ,0,0
+99230 Jeesiöjärvi   ,Kittil? ,16,28
+99240 Kuivasalmi   ,Kittil? ,22,26
+99250 Kiistala-Jeesiöjärvi   ,Kittil? ,33,41
+99270 Hormakumpu   ,Kittil? ,18,21
+99280 Tepsa   ,Kittil? ,36,40
+99290 Kelontekemä   ,Kittil? ,35,56
+99300 Muonio Keskus   ,Muonio ,931,918
+99310 Yli-Muonio   ,Muonio ,77,80
+99320 Kätkäsuvanto   ,Muonio ,55,59
+99330 Pallastunturi   ,Muonio ,0,0
+99340 Raattama-Pallastunturi   ,Kittil? ,63,85
+99360 Kangosjärvi   ,Muonio ,63,72
+99400 Enontekiö Keskus   ,Enonteki? ,349,351
+99410 Vuontisjärvi   ,Enonteki? ,45,62
+99420 Peltovuoma   ,Enonteki? ,77,84
+99430 Nunnanen   ,Enonteki? ,41,53
+99440 Leppäjärvi   ,Enonteki? ,62,81
+99450 Palojoensuu-Kuttanen   ,Enonteki? ,42,58
+99460 Kuttanen   ,Enonteki? ,28,30
+99470 Karesuvanto   ,Enonteki? ,117,148
+99490 Kilpisjärvi   ,Enonteki? ,80,72
+99510 Raudanjoki-Seipäjärvi   ,Sodankyl? ,30,40
+99520 Seipäjärvi   ,Sodankyl? ,13,18
+99530 Vuojärvi   ,Sodankyl? ,45,44
+99540 Torvinen   ,Sodankyl? ,66,87
+99550 Aska-Orakylä   ,Sodankyl? ,39,51
+99555 Luosto   ,Sodankyl? ,44,50
+99560 Orakylä   ,Sodankyl? ,124,140
+99600 Sodankylä Keskus   ,Sodankyl? ,2828,2802
+99610 Siurunmaa   ,Sodankyl? ,18,24
+99620 Kelujärvi   ,Sodankyl? ,96,130
+99640 Tanhua   ,Savukoski ,42,48
+99645 Lokka   ,Sodankyl? ,38,48
+99650 Sattanen   ,Sodankyl? ,125,159
+99655 Sattasvaara   ,Sodankyl? ,49,64
+99660 Kersilö   ,Sodankyl? ,21,24
+99665 Moskuvaara   ,Sodankyl? ,17,18
+99670 Petkula   ,Sodankyl? ,16,20
+99690 Vuotso   ,Sodankyl? ,128,145
+99695 Tankavaara   ,Sodankyl? ,0,0
+99710 Vaalajärvi   ,Sodankyl? ,139,174
+99720 Riipi   ,Sodankyl? ,78,93
+99740 Syväjärvi   ,Sodankyl? ,70,98
+99750 Sassali   ,Sodankyl? ,23,30
+99760 Uimaniemi   ,Sodankyl? ,0,0
+99770 Jeesiö   ,Sodankyl? ,46,79
+99800 Ivalo   ,Inari ,2323,2455
+99830 Saariselkä   ,Inari ,168,174
+99860 Nellim   ,Inari ,57,80
+99870 Inari Keskus-Lemmenjoki   ,Inari ,491,528
+99885 Lemmenjoki   ,Inari ,20,32
+99910 Kaamanen-Partakko   ,Inari ,72,103
+99930 Sevettijärvi-Näätämö   ,Inari ,51,58
+99940 Näätämö   ,Inari ,0,0
+99950 Karigasniemi   ,Utsjoki ,129,181
+99980 Utsjoki Keskus   ,Utsjoki ,325,382
+99990 Nuorgam   ,Utsjoki ,97,117
